@@ -10,4 +10,4 @@ Overview of Collab demos:
 | esalsa  | ...  | ...  |
 | ewatercycle  | ...  | ...  |
 | summerinthecity  | ...  | ...  |
-| viaappia  | ...  | [https://viaappia.esciencecenter.nl](https://viaappia.esciencecenter.nl)  |
+| viaappia  | ...  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
