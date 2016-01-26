@@ -4,7 +4,7 @@ Overview of Collab demos:
 
 | Name | Description | url |
 | --- | --- | --- |
-| ahn2  | ...  | [http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)  |
+| [ahn2](ahn2)  | ...  | [http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)  |
 | eecology  | ...  | ...  |
 | esalsa  | ...  | ...  |
 | ewatercycle  | ...  | ...  |
