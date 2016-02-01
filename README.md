@@ -6,12 +6,12 @@ Overview of Collab demos:
 
 | Name |  Demo | Document | Screencast | Code
 | --- | --- | --- | --- | --- |
-| [ahn2](ahn2) | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | :x: | :x: |
-| [eecology](eecology) | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | :x: |
-| [esalsa](esalsa) | N/A  | :x: | :x: | :x: |
-| [ewatercycle](ewatercycle) | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | :x: |
-| [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](https://github.com/jspaaks/collab-demos/blob/master/demos/summerinthecity/README.md) | [:white_check_mark:](https://github.com/jspaaks/collab-demos/blob/master/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: |
-| [viaappia](viaappia)  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: | :x: |
+| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | :x: | :x: |
+| eecology | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | :x: |
+| esalsa | N/A  | :x: | :x: | :x: |
+| ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | :x: |
+| summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](https://github.com/jspaaks/collab-demos/blob/master/demos/summerinthecity/README.md) | [:white_check_mark:](https://github.com/jspaaks/collab-demos/blob/master/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: |
+| viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: | :x: |
 
 
 
