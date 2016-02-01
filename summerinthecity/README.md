@@ -35,7 +35,7 @@ _bringing together various data sources_
 
 _high resolution modeling requires a lot of compute power_
 
-  - A 2-days ahead prediction takes about 10 hours waltime on 96 cores of the [Cartesius](https://userinfo.surfsara.nl/systems/cartesius) supercomputer, so approximately 5x realtime.
+  - A 2-days ahead prediction for the Amsterdam area takes about 10 hours walltime on 96 cores of the [Cartesius](https://userinfo.surfsara.nl/systems/cartesius) supercomputer, so approximately 5x realtime.
 
 # scientifically interesting aspects
 
