@@ -6,12 +6,12 @@ Overview of Collab demos:
 
 | Name |  Demo |
 | --- | --- |
-| [ahn2](ahn2) | [http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)  |
+| [ahn2](ahn2) | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  |
 | [eecology](eecology) | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) |
 | [esalsa](esalsa) | N/A  |
-| [ewatercycle](ewatercycle) | [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)  |
+| [ewatercycle](ewatercycle) | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  |
 | [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  |
-| [viaappia](viaappia)  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
+| [viaappia](viaappia)  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  |
 
 
 
