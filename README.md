@@ -12,4 +12,7 @@ Overview of Collab demos:
 | [viaappia](viaappia)  | ...  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
 
 
-Collaboratorium howto by SURFsara: [link](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf)
+- Collaboratorium howto by SURFsara: [link](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf)
+- The Collaboratorium PC has a Windows 10 installation with the user account **C ollab**. For the password, refer to (https://nlesc.sharepoint.com/it/SitePages/Guide%20-%20Using%20the%20Collab.aspx)[the sharepoint IT site].
+ 
+
