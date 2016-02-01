@@ -4,14 +4,14 @@ The Collaboratorium PC has a Windows 10 installation with the user account **C o
 
 Overview of Collab demos:
 
-| Name |  Demo |
-| --- | --- |
-| [ahn2](ahn2) | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  |
-| [eecology](eecology) | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) |
-| [esalsa](esalsa) | N/A  |
-| [ewatercycle](ewatercycle) | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  |
-| [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  |
-| [viaappia](viaappia)  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  |
+| Name |  Demo | Document | Screencast
+| --- | --- | --- | --- |
+| [ahn2](ahn2) | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | :x: |
+| [eecology](eecology) | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: |
+| [esalsa](esalsa) | N/A  | :x: | :x: |
+| [ewatercycle](ewatercycle) | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: |
+| [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | :x: | :x: |
+| [viaappia](viaappia)  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: |
 
 
 
