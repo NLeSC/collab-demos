@@ -14,7 +14,7 @@ The forecasting of thermal human comfort requires simulations on very high spati
 
 [The demo](http://jiskattema.github.io/summerinthecity/) is a publicly accessible web demo. That means you should be able to access it from any computer using your browser as long as you have a working internet connection.
 
-The demo consists of an interactive map showing the urban heat island effect (UHI). It should be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in your neighborhood. Take the traditional temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. 
+The demo consists of an interactive map showing the average deviation from a traditional weather forecast, based on data from the summer of 2006. This deviation is known as the _urban heat island_ (UHI) effect. It can be as much as 5 degrees for warm days (see e.g. the inner cities of Amsterdam, Enschede, Groningen, Maastricht). The map can be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in a neighborhood: just take the traditional temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. 
 
 When hovering over the map, a pop-up shows some summary statistics, such as the population count, the area fraction of urbanization (houses, streets), vegetation (trees, grass, gardens, parks), and water.
 
