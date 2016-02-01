@@ -12,7 +12,7 @@ The forecasting of thermal human comfort requires simulations on very high spati
 
 # demo usage
 
-[The demo](http://jiskattema.github.io/summerinthecity/) is a publicly accessible web demo. That means you should be able to access it with your browser as long as you have a working internet connection.
+[The demo](http://jiskattema.github.io/summerinthecity/) is a publicly accessible web demo. That means you should be able to access it from any computer using your browser as long as you have a working internet connection.
 
 The demo consists of an interactive map showing the urban heat island effect (UHI). It should be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in your neighborhood. Take the traditional temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. 
 
