@@ -39,4 +39,5 @@ _high resolution modeling requires a lot of compute power_
 
 # scientifically interesting aspects
 
-- 
+- high-resolution modeling provides street-level forecast
+- comparing high-resolution weather model of urban environment to traditional weather model results shows structural differences. Finding the mechanisms that explain such structural differences will lead to better understanding of weather in urban environments.
