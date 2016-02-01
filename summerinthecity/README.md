@@ -48,3 +48,4 @@ _High-resolution modeling requires a lot of compute power_
 - [https://www.esciencecenter.nl/?/project/summer-in-the-city](https://www.esciencecenter.nl/?/project/summer-in-the-city)
 - [http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)
 - [https://vimeo.com/109430452](https://vimeo.com/109430452)
+- Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
