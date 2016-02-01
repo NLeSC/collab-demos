@@ -16,9 +16,11 @@ Next to the proposed research, dissemination of results via the Internet and soc
 
 This demo is a publicly accessible web demo. That means you should be able to access it with your browser as long as you have a working internet connection.
 
-The map shows the urban heat island effect (UHI). It should be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in your neighborhood. Take the temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. When hovering over the map, a pop-up also shows the population count, and the area fraction of urbanization (houses, streets), vegetation (trees, grass, gardens, parks), and water.
+The demo consists of an interactive map showing the urban heat island effect (UHI). It should be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in your neighborhood. Take the traditional temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. 
 
-## quirks
+When hovering over the map, a pop-up shows the population count, the area fraction of urbanization (houses, streets), vegetation (trees, grass, gardens, parks), and water.
+
+## known quirks
 - vector overlay only specified for certain zoom levels. If you zoom out too much, you see only 'gemeentes' without color information on heat; zoom in too much and you see only houses.
 
 
