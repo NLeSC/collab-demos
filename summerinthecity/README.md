@@ -36,6 +36,7 @@ _Bringing together various data sources_
 _High-resolution modeling requires a lot of compute power_
 
   - A 2-days ahead prediction for the Amsterdam area takes about 10 hours walltime on 96 cores of the [Cartesius](https://userinfo.surfsara.nl/systems/cartesius) supercomputer, so approximately 5x realtime.
+  - The simulation on which the demo is based, required X hours walltime on <style="color: red">system</style>
 
 # Scientifically interesting aspects
 
