@@ -8,7 +8,7 @@ Overview of Collab demos:
 | [eecology](eecology)  | ...  | ...  |
 | [esalsa](esalsa)  | ...  | ...  |
 | [ewatercycle](ewatercycle)  | ...  | [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)  |
-| [summerinthecity](summerinthecity)  | ...  | ...  |
+| [summerinthecity](summerinthecity)  | ...  | [http://jiskattema.github.io/summerinthecity/](http://jiskattema.github.io/summerinthecity/)  |
 | [viaappia](viaappia)  | ...  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
 
 
