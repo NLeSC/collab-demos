@@ -7,6 +7,6 @@ Overview of Collab demos:
 | [ahn2](ahn2)  | ...  | [http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)  |
 | [eecology](eecology)  | ...  | ...  |
 | [esalsa](esalsa)  | ...  | ...  |
-| [ewatercycle](ewatercycle)  | ...  | [forecast.ewatercycle.org](forecast.ewatercycle.org)  |
+| [ewatercycle](ewatercycle)  | ...  | [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)  |
 | [summerinthecity](summerinthecity)  | ...  | ...  |
 | [viaappia](viaappia)  | ...  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
