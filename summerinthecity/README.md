@@ -31,7 +31,7 @@ _Bringing together various data sources_
   - [AHN](http://ahn.maps.arcgis.com/apps/webappviewer/index.html?id=c3c98b8a4ff84ff4938fafe7cc106e88) (what is the local surface elevation of the landscape (including objects such as buildings, trees, etc)?
   -  Aerial photography (how green is a given area?)
   -  _Citizen science_: [Weather Underground](http://www.wunderground.com/) observations
-  -  Wageningen University's sensor network of 30 weather stations located in and around the city of Wageningen
+  -  Wageningen University's sensor network of 30 weather stations located in and around the cities of Wageningen and Amsterdam
 
 _High-resolution modeling requires a lot of compute power_
 
