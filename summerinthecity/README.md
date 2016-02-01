@@ -40,4 +40,11 @@ _High-resolution modeling requires a lot of compute power_
 # Scientifically interesting aspects
 
 - High-resolution modeling provides street-level forecast
+- Forecasting human thermal comfort in urban areas at the required resolution is novel
 - Comparing high-resolution weather model of urban environments to traditional weather forecasts shows structural differences (for example with respect to temperature). Finding the mechanisms that explain such structural differences will lead to better understanding of weather in urban environments.
+
+# Further reading
+
+- [https://www.esciencecenter.nl/?/project/summer-in-the-city](https://www.esciencecenter.nl/?/project/summer-in-the-city)
+- [http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)
+- [https://vimeo.com/109430452](https://vimeo.com/109430452)
