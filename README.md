@@ -10,7 +10,7 @@ Overview of Collab demos:
 | [eecology](eecology) | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: |
 | [esalsa](esalsa) | N/A  | :x: | :x: |
 | [ewatercycle](ewatercycle) | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: |
-| [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | :x: | :x: |
+| [summerinthecity](summerinthecity) | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](https://github.com/jspaaks/collab-demos/blob/master/demos/summerinthecity/README.md) | :x: |
 | [viaappia](viaappia)  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: |
 
 
