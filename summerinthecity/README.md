@@ -37,6 +37,6 @@ _high resolution modeling requires a lot of compute power_
 
   - A 2-days ahead prediction takes about 10 hours waltime on 96 cores of the [Cartesius](https://userinfo.surfsara.nl/systems/cartesius) supercomputer, so approximately 5x realtime.
 
-# science
+# scientifically interesting aspects
 
 - 
