@@ -10,8 +10,6 @@ On warm days, a city can become uncomfortably hot. Cities experience a so-called
 
 The forecasting of thermal human comfort requires simulations on very high spatial and temporal scales, posing both a meteorological and an eScience challenge. Observational data to validate the weather forecasts at street level are based on a network of weather stations in two cities: Wageningen and Amsterdam. This network has a fine spatial detail compared to other networks in the research field and allows for an evaluation of the forecasted temperature and humidity. Bike traverse measurements of temperature, humidity, wind speed, and radiation are taken regularly. These observations resolve a high degree of spatial detail in urban weather and contribute to an understanding of urban climate.
 
-Next to the proposed research, dissemination of results via the Internet and social media will be explored. Forecasting human thermal comfort on street level is novel and will be of added value for public health and society in general. The first step is to process the urban morphological data into parameters relevant to the weather forecasting model. The mesoscale meteorological model WRF (Weather Research and Forecasting) can then produce fine spatial scale weather forecasts. These forecasts are downscaled to the street scale using knowledge of the available geo-information. Truly a Big Data challenge.
-
 # demo usage
 
 [The demo](http://jiskattema.github.io/summerinthecity/) is a publicly accessible web demo. That means you should be able to access it with your browser as long as you have a working internet connection.
@@ -21,21 +19,23 @@ The demo consists of an interactive map showing the urban heat island effect (UH
 When hovering over the map, a pop-up shows some summary statistics, such as the population count, the area fraction of urbanization (houses, streets), vegetation (trees, grass, gardens, parks), and water.
 
 ## known quirks
-- UHI vector overlay only visible for intermediate zoom levels. If you zoom out too much, you see only 'gemeentes' without color information on heat; zoom in too much and you see only houses.
+- UHI vector overlay only visible for intermediate zoom levels. If you zoom out too much, you see only 'gemeentes' without color information on temperature; zoom in too much and you see only houses.
 
 
 
 # technologically interesting aspects
 
-- bringing together various data sources
+_bringing together various data sources_
+
   - kadaster (what building is located where?)
   - [AHN](http://ahn.maps.arcgis.com/apps/webappviewer/index.html?id=c3c98b8a4ff84ff4938fafe7cc106e88) (what is the local surface elevation of the landscape (including objects such as buildings, trees, etc)?
   -  aerial photography (how green is a given area?)
   -  _citizen science_: [Weather Underground](http://www.wunderground.com/) observations
   -  Wageningen University's sensor network of 30 weather stations located in and around the city of Wageningen
 
-- compute at high resolution
-  - Cartesius 96 cores 5x realtime
+_high resolution modeling requires a lot of compute power_
+
+  - A 2-days ahead prediction takes about 10 hours waltime on 96 cores of the [Cartesius](https://userinfo.surfsara.nl/systems/cartesius) supercomputer, so approximately 5x realtime.
 
 # science
 
