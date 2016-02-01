@@ -49,3 +49,4 @@ _High-resolution modeling requires a lot of compute power_
 - [Article](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)  from Amsterdam-based newspaper 'Het Parool' (July 16, 2014)
 - A [video](https://vimeo.com/109430452) about the project
 - Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
+- Browse [the code](https://github.com/NLeSC/summer-in-the-city) on Github
