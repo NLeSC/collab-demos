@@ -7,7 +7,7 @@ Overview of Collab demos:
 | Name | Description | url |
 | --- | --- | --- |
 | [ahn2](ahn2)  | ...  | [http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)  |
-| [eecology](eecology)  | ...  | ...  |
+| [eecology](eecology)  | ...  | requires login (issue #7) |
 | [esalsa](esalsa)  | ...  | N/A  |
 | [ewatercycle](ewatercycle)  | ...  | [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)  |
 | [summerinthecity](summerinthecity)  | ...  | [http://jiskattema.github.io/summerinthecity/](http://jiskattema.github.io/summerinthecity/)  |
