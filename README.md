@@ -10,3 +10,6 @@ Overview of Collab demos:
 | [ewatercycle](ewatercycle)  | ...  | [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)  |
 | [summerinthecity](summerinthecity)  | ...  | ...  |
 | [viaappia](viaappia)  | ...  | [http://viaappia.esciencecenter.nl](http://viaappia.esciencecenter.nl)  |
+
+
+Collaboratorium howto by SURFsara: [link](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf)
