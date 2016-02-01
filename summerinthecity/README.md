@@ -27,7 +27,7 @@ When hovering over the map, a pop-up shows some summary statistics, such as the 
 
 _Bringing together various data sources_
 
-  - Kadaster (what building is located where?)
+  - [Basisregistratie Adressen en Gebouwen (kadaster)](https://bagviewer.kadaster.nl/lvbag/bag-viewer/index.html#?geometry.x=160000&geometry.y=455000&zoomlevel=3) (what building is located where?)
   - [AHN](http://ahn.maps.arcgis.com/apps/webappviewer/index.html?id=c3c98b8a4ff84ff4938fafe7cc106e88) (what is the local surface elevation of the landscape (including objects such as buildings, trees, etc)?
   -  Aerial photography (how green is a given area?)
   -  _Citizen science_: [Weather Underground](http://www.wunderground.com/) observations
