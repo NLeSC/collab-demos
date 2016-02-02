@@ -1,7 +1,8 @@
 
 
 - **url:**  [http://jiskattema.github.io/summerinthecity/](http://jiskattema.github.io/summerinthecity/)
-- **contact**: Jisk Atttema
+- ~~**screencast**: [https://vimeo.com/channels/894927](https://vimeo.com/channels/894927)~~
+- **contact person**: Jisk Atttema
 
 
 # General idea of the project
@@ -49,4 +50,5 @@ _High-resolution modeling requires a lot of compute power_
 - [Article](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)  from Amsterdam-based newspaper 'Het Parool' (July 16, 2014)
 - A [video](https://vimeo.com/109430452) about the project
 - Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
-- Browse [the code](https://github.com/NLeSC/summer-in-the-city) on Github
+- ~~Browse [the code](https://github.com/NLeSC/summer-in-the-city) on Github~~
+- ~~A [screencast](https://vimeo.com/channels/894927) of the demo on Vimeo~~
