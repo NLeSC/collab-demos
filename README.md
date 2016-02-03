@@ -8,7 +8,7 @@ Overview of Collab demos:
 | --- | --- | --- | --- | --- |
 | ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) |
 | eecology | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) |
-| esalsa | not a webdemo  | :x: | :x: | :x: |
+| esalsa | not a webdemo  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) |
 | ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | :x: |
 | summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](/demos/summerinthecity/README.md) | [:white_check_mark:](/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: |
 | viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: | :x: |
