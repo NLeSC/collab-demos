@@ -10,9 +10,9 @@
 
 | Button | Description |
 | --- | --- |
-| ``LMB | does nothing |
-| ``MMB | zoom in/out |
-| ``RMB | hold to change viewing direction (left/right/up/down) |
+| ``LMB`` | does nothing |
+| ``MMB`` | zoom in/out |
+| ``RMB`` | hold to change viewing direction (left/right/up/down) |
 | ``a`` | does nothing (because we're on rails) |
 | ``s`` | move forward (independent of viewing direction) |
 | ``d`` | does nothing (because we're on rails) |
