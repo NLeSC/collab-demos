@@ -1,7 +1,8 @@
 # Button name abbreviations:
-LMB: left mouse button
-MMB: middle mouse button
-RMB: right mouse button
+
+- LMB: left mouse button
+- MMB: middle mouse button
+- RMB: right mouse button
 
 
 
