@@ -6,7 +6,7 @@ Overview of Collab demos:
 
 | Name |  Demo | Document | Screencast | Code
 | --- | --- | --- | --- | --- |
-| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | :x: |
+| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | :x: |
 | eecology | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | :x: |
 | esalsa | not a webdemo  | :x: | :x: | :x: |
 | ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | :x: |
