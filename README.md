@@ -4,14 +4,14 @@ The Collaboratorium PC has a Windows 10 installation with the **user account** `
 
 Overview of Collab demos:
 
-| Name |  Demo | Document | Screencast | Code
-| --- | --- | --- | --- | --- |
-| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) |
-| eecology | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) |
-| esalsa | not a webdemo  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) |
-| ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle) |
-| summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](/demos/summerinthecity/README.md) | [:white_check_mark:](/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: |
-| viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | [:white_check_mark:](https://youtu.be/I3DLXSrRiyk) | :x: |
+| Name |  Demo | Document | Screencast | Code | Presentation
+| --- | --- | --- | --- | --- | --- |
+| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) | :x: |
+| eecology | requires login (issue [#7](https://github.com/jspaaks/collab-demos/issues/7)) | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) | :x: |
+| esalsa | not a webdemo  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) | :x: |
+| ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle) | :x: |
+| summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](/demos/summerinthecity/README.md) | [:white_check_mark:](/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: | :x: |
+| viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | [:white_check_mark:](https://youtu.be/I3DLXSrRiyk) | :x: | [:white_check_mark:](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FVia%20Appia&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}) |
 
 
 
