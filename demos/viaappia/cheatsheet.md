@@ -1,3 +1,12 @@
+There are 4 modes of operation. Navigation, zooming, and changing the viewing direction works a little bit different in each mode:
+
+1. On rails (cowboy icon): In this mode, the camera is on rails, therefore the only defined movement is along the railway tracks. The viewing direction and zoom level can be changed as well.
+2. Free fly (helicopter icon): This is the most permissive mode.
+3. Demo mode (play icon): This mode is basically the same as 'On rails' mode, except that the movement along the railway tracks does not require user input. The movement is from Northeast to Southwest, and the speed varies a little bit along the way.
+4. Object inspection mode (no icon): This mode is different from all the other modes, because all camera movement is defined relative to the object of interest. When you're in 'Free fly' or in 'On rails' mode, holding the RMB down to change the viewing direction does not move the camera, but in this mode it does. That is why this mode is sometimes referred to as 'orbital mode'.
+
+Below is a table with an overview of the controls. I'm using
+
 # Button name abbreviations:
 
 - ``LMB``: left mouse button
@@ -5,74 +14,7 @@
 - ``RMB``: right mouse button
 
 
-
-# On rails (cowboy icon)
-
-In this mode, the camera is on rails, therefore the only defined movement is along the railway tracks. The viewing direction and zoom level can be changed as well.
-
-| Button | Description |
-| --- | --- |
-| ``LMB`` | does nothing |
-| ``MMB`` | zoom in/out |
-| ``RMB`` | hold to change viewing direction (left/right/up/down) |
-| ``w`` | move southeast (independent of viewing direction) |
-| ``a`` | does nothing |
-| ``s`` | move northwest (independent of viewing direction) |
-| ``d`` | does nothing |
-| ``q`` | does nothing |
-| ``z`` | does nothing |
-
-# Free fly (helicopter icon)
-
-| Button | Description |
-| --- | --- |
-| ``LMB`` | does nothing |
-| ``MMB`` | zoom in/out |
-| ``RMB`` | hold to change viewing direction (left/right/up/down) |
-| ``w`` | move forward in 3-D along the viewing direction vector |
-| ``a`` | move left (horizontally) |
-| ``s`` | move backward in 3-D along the viewing direction vector |
-| ``d`` | move right (horizontally) |
-| ``q`` | move up |
-| ``z`` | move down |
-
-
-# Demo mode (play icon)
-
-This mode is basically the same as 'On rails' mode, except that the movement along the railway tracks does not require user input. The movement is from Northeast to Southwest, and the speed varies a little bit along the way.
-
-| Button | Description |
-| --- | --- |
-| ``LMB`` | does nothing |
-| ``MMB`` | zoom in/out, also determines the speed of movement  |
-| ``RMB`` | does nothing |
-| ``w`` | does nothing |
-| ``a`` | does nothing |
-| ``s`` | does nothing |
-| ``d`` | does nothing |
-| ``q`` | does nothing |
-| ``z`` | does nothing |
-
-# Object inspection (no icon)
-
-This mode is different from all the other modes, because all camera movement is defined relative to the object of interest. When you're in 'Free fly' or in 'On rails' mode, holding the RMB down to change the viewing direction does not move the camera, but in this mode it does. That is why this mode is sometimes referred to as 'orbital mode'.
-
-| Button | Description |
-| --- | --- |
-| ``LMB`` | hold to rotate around the selected object |
-| ``MMB`` | zoom in/out  |
-| ``RMB`` | pan left/right/up/down |
-| ``w`` | does nothing |
-| ``a`` | does nothing |
-| ``s`` | does nothing |
-| ``d`` | does nothing |
-| ``q`` | does nothing |
-| ``z`` | does nothing |
-
-
-
-
-# All in one table
+# All in one table<a label="dasdasd">
 
 | Button | On rails | Free fly | Demo mode | Object inspection mode |
 | --- | --- | --- | --- | --- |
