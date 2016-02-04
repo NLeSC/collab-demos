@@ -33,7 +33,7 @@ User controls are not what you expect (issue [#11](/../../issues/11)) and vary w
 3. Demo mode (play icon)
 4. Object inspection (no icon)
 
-I've included a [cheatsheet](/cheatsheet.md).
+I've included a [cheatsheet](/demos/viaappia/cheatsheet.md).
 
 Also the demo sometimes crashes unexpectedly. It is currently unknown what causes this. In any case, it seems to happen more frequently when loading a lot of data.
 
