@@ -24,8 +24,6 @@ The drive map point cloud provides good spatial coverage and is very accurate, b
 
 The point clouds resulting from stereophotogrammetry were then combined with the drive map point clous, and the result was put into a database. A point cloud viewer was then built to be able to move through the virtual landscape, to inspect the archaeological objects close up, and even to perform measurements of length, area, and volume&mdash;all in the virtual world. 
 
-# Usage
-
 # Known quirks
 
 User controls are not what you expect (issue [#11](/../../issues/11)) and vary with the mode of viewing (of which there are 4):
