@@ -11,7 +11,7 @@ Overview of Collab demos:
 | esalsa | not a webdemo  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) |
 | ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle) |
 | summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](/demos/summerinthecity/README.md) | [:white_check_mark:](/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: |
-| viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | :x: | :x: |
+| viaappia  | [:arrow_upper_right:](http://viaappia.esciencecenter.nl)  | :x: | [:white_check_mark:](https://youtu.be/I3DLXSrRiyk) | :x: |
 
 
 
