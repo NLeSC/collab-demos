@@ -27,7 +27,7 @@ The point clouds resulting from stereophotogrammetry were then combined with the
 
 # Known quirks
 
-User controls are not what you expect (issue /issues/11) and vary with the mode of viewing (of which there are 4):
+User controls are not what you expect (issue [#11](/issues/11)) and vary with the mode of viewing (of which there are 4):
 
 1. On rails (cowboy icon)
 2. Free fly (helicopter icon)
