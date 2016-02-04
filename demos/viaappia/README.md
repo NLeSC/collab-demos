@@ -36,10 +36,9 @@ User controls are not what you expect (issue [#11](/../../issues/11)) and vary w
 
 I've included a [cheatsheet](/cheatsheet).
 
-Also the demo sometimes crashes unexpectedly. It is currently unknown what causes this, we suspect a memory leak in a JavaScript library, possible having to do with loading of data. In any case, it seems to happen more frequently when loading a lot of data.
+Also the demo sometimes crashes unexpectedly. It is currently unknown what causes this. In any case, it seems to happen more frequently when loading a lot of data.
 
 The demo uses **IP-whitelisting** to get the data from the server (which is located in Germany). In practice, this means that the webdemo will work as long as you are showing the demo on a computer anywhere in The Netherlands eScience Center including the Collaboratorium (as long as you use a wired network connection).
-
 
 # Scientifically interesting aspects
 
