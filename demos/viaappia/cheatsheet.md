@@ -54,3 +54,5 @@ This mode is basically the same as 'On rails' mode, except that the movement alo
 | ``z`` | does nothing |
 
 # Object inspection (no icon)
+
+This mode is different from all the other modes, because all camera movement is defined relative to the object of interest. When you're in 'Free fly' or in 'On rails' mode, holding the RMB down to change the viewing direction does not move the camera, but in this mode it does. That is why this mode is sometimes referred to as 'orbital mode'.
