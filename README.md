@@ -7,7 +7,7 @@ Overview of Collab demos:
 | Name |  Demo | Document | Screencast | Code | Presentation
 | --- | --- | --- | --- | --- | --- |
 | ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) | :x: |
-| eecology | :x:&sup; | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) | :x: |
+| eecology | :x:&sup1; | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) | :x: |
 | esalsa | not a webdemo  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) | :x: |
 | ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle) | :x: |
 | summerinthecity | [:arrow_upper_right:](http://jiskattema.github.io/summerinthecity/)  | [:white_check_mark:](/demos/summerinthecity/README.md) | [:white_check_mark:](/demos/summerinthecity/screencast-demo-summer-in-the-city.mp4) | :x: | :x: |
