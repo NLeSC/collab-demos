@@ -27,14 +27,27 @@
 | ``LMB`` | does nothing |
 | ``MMB`` | zoom in/out |
 | ``RMB`` | hold to change viewing direction (left/right/up/down) |
-| ``w`` | move forward along the viewing direction |
+| ``w`` | move forward in 3-D along the viewing direction vector |
 | ``a`` | move left (horizontally) |
-| ``s`` | move backward along the viewing direction |
-| ``d`` | does right (horizontally) |
+| ``s`` | move backward in 3-D along the viewing direction vector |
+| ``d`` | move right (horizontally) |
 | ``q`` | move up |
 | ``z`` | move down |
 
 
 # Demo mode (play icon)
+
+
+| Button | Description |
+| --- | --- |
+| ``LMB`` | does nothing |
+| ``MMB`` | zoom in/out, also determines the speed of movement  |
+| ``RMB`` | does nothing |
+| ``w`` | does nothing |
+| ``a`` | does nothing |
+| ``s`` | does nothing |
+| ``d`` | does nothing |
+| ``q`` | does nothing |
+| ``z`` | does nothing |
 
 # Object inspection (no icon)
