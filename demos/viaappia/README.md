@@ -33,6 +33,12 @@ I've included a [cheatsheet](/cheatsheet).
 
 # Technologically interesting aspects
 
+- visualization of large numbers of points in a web-based viewer
+- generation of detailed point clouds from a collection of photographs using distributed computing to speed up the process
+- bringing together point clouds from different sources, generated using different techniques.
+- integration the point cloud 3-D environment with additional information in the form of old maps
+ 
+
 # Further reading
 
 - Project [website](https://www.esciencecenter.nl/via-appia)
