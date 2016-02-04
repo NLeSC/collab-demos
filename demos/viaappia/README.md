@@ -1,5 +1,5 @@
 
-- **url**: http://viaappia.esciencecenter.nl/
+- **url**: http://viaappia.esciencecenter.nl/ (IP-whitelisting)
 - **contact person**: Maarten van Meersbergen
 
 
@@ -36,15 +36,22 @@ User controls are not what you expect (issue [#11](/../../issues/11)) and vary w
 
 I've included a [cheatsheet](/cheatsheet).
 
+Also the demo sometimes crashes unexpectedly. It is currently unknown what causes this, we suspect a memory leak in a JavaScript library, possible having to do with loading of data. In any case, it seems to happen more frequently when loading a lot of data.
+
+The demo uses **IP-whitelisting** to get the data from the server (which is located in Germany). In practice, this means that the webdemo will work as long as you are showing the demo on a computer anywhere in The Netherlands eScience Center including the Collaboratorium (as long as you use a wired network connection).
+
 
 # Scientifically interesting aspects
+
+- Different types of questions can now be asked
+- Query the shape of the landscape and the objects in it 
 
 # Technologically interesting aspects
 
 - visualization of large numbers of points in a web-based viewer
-- generation of detailed point clouds from a collection of photographs using distributed computing to speed up the process
+- generation of detailed point clouds and textured meshes from a collection of photographs using distributed computing to speed up the process
 - bringing together point clouds from different sources, generated using different techniques.
-- integration the point cloud 3-D environment with additional information in the form of old maps
+- integrating the point cloud 3-D environment with additional information in the form of old maps, images, and existing  descriptions of objects
  
 
 # Further reading
