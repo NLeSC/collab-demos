@@ -10,15 +10,15 @@
 
 | Button | Description |
 | --- | --- |
-| ``LMB`` | does nothing |
+| ``LMB`` | _does nothing_ |
 | ``MMB`` | zoom in/out |
 | ``RMB`` | hold to change viewing direction (left/right/up/down) |
 | ``w`` | move southeast (independent of viewing direction) |
-| ``a`` | does nothing (because we're on rails) |
+| ``a`` | _does nothing (because we're on rails)_ |
 | ``s`` | move northwest (independent of viewing direction) |
-| ``d`` | does nothing (because we're on rails) |
-| ``q`` | does nothing (because we're on rails) |
-| ``z`` | does nothing (because we're on rails) |
+| ``d`` | _does nothing (because we're on rails)_ |
+| ``q`` | _does nothing (because we're on rails)_ |
+| ``z`` | _does nothing (because we're on rails)_ |
 
 # Free fly (helicopter icon)
 
