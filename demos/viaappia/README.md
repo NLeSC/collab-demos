@@ -1,7 +1,6 @@
-# viaappia
 
-**url**: http://viaappia.esciencecenter.nl/
-**contact person**: Maarten van Meersbergen
+- **url**: http://viaappia.esciencecenter.nl/
+- **contact person**: Maarten van Meersbergen
 
 
 # General idea of the project
