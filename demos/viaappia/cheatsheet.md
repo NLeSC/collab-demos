@@ -74,7 +74,7 @@ This mode is different from all the other modes, because all camera movement is 
 
 # All in one table
 
-| Button | On rails | Free fly | Demo mode |
+| Button | On rails | Free fly | Demo mode | Object inspection mode |
 | --- | --- | --- | --- | --- |
 | ``LMB`` | - | - | - | hold to rotate around the selected object |
 | ``MMB`` | zoom in/out | zoom in/out | zoom in/out, also determines the speed of movement | zoom in/out |
