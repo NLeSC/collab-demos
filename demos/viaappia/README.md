@@ -13,7 +13,19 @@ The "Mapping the Via Appia" project aims at a thorough inventory and analysis of
 
 Traditionally, archaeologists would go out into the field, measure an object of interest, and record their findings in a database or [GIS  software](https://en.wikipedia.org/wiki/Geographic_information_system). However, a question such as _May this block of tufa have originated from that funeral monument down the road?_ or the more general question _Is there a funeral monument nearby from which this block of tufa may have originated?_ is difficult to answer with these tools due to the inherently 3-D nature of archaeology. 
 
-So instead, what was needed was a system that measures the shape of _everything_&mdash;blocks, monuments, and everything else. Nowadays, the required type of information can be collected using a relatively new technology, known as [_lidar_](https://en.wikipedia.org/wiki/Lidar). Lidar data was collected by Fugro's [drive-map](http://www.drive-map.eu/) service using a laser scanner device mounted on a vehicle. The vehicle is equipped with multiple, very accurate GPS devices that work together with a very accurate gyroscope to determine the vehicle's location on Earth. The laser scanner that is mounted on the vehicle subsequently sends out a laser pulse and records the time it took for the laser light to be reflected when looking in a certain direction. Since the reflection time is a measure of distance from the vehicle to the object that reflected the light, this technique can be used to construct so-called _point clouds_ of the environment. These point clouds can be viewed in software, such that the archaeologists may then perform their measurements of length, area, and volume in the virtual world rather than the real one. Additionally, it becomes possible to query the shape of the environment: for example, you can then ask questions such as _Are there any objects nearby that have a volume of at least X m&sup3; ?_
+_Using lidar to create a virtual representation of the environment_
+
+So instead, what was needed was a system that measures the shape of _everything_&mdash;blocks, monuments, and everything else. Nowadays, the required type of information can be collected using a relatively new technology, known as [_lidar_](https://en.wikipedia.org/wiki/Lidar). Lidar data was collected by Fugro's [drive-map](http://www.drive-map.eu/) service using a laser scanner device mounted on a vehicle. The vehicle is equipped with multiple, very accurate GPS devices that work together with a very accurate gyroscope to determine the vehicle's location on Earth. The laser scanner that is mounted on the vehicle subsequently sends out a laser pulse and records the time it took for the laser light to be reflected when looking in a certain direction. Since the reflection time is a measure of distance from the vehicle to the object that reflected the light, this technique can be used to construct so-called _point clouds_ of the environment. 
+
+_Using photographs to construct point clouds of archaeological objects_
+
+The drive map point cloud provides good spatial coverage and is very accurate, but the archaeological objects 
+
+The drive map point cloud was then combined with all the point clouds that had been created for individual objects, and the result was put into a database. A point cloud viewer was then built to be able to move through the virtual landscape, to inspect the archaeological objects close up, and even to perform measurements of length, area, and volume&mdash;all in the virtual world. 
+
+
+
+Additionally, it becomes possible to query the shape of the environment: for example, you can then ask questions such as _Are there any objects nearby that have a volume of at least X m&sup3; ?_
 
 # Usage
 
