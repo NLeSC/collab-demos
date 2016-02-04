@@ -19,13 +19,9 @@ So instead, what was needed was a system that measures the shape of _everything_
 
 _Using photographs to construct point clouds of archaeological objects_
 
-The drive map point cloud provides good spatial coverage and is very accurate, but the archaeological objects 
+The drive map point cloud provides good spatial coverage and is very accurate, but the archaeological objects themselves were a bit coarse. To mitigate this, it was necessary to introduce another source of information in the form of photographs: during the course of an archaeological dig, each object is meticulously photographed using consumer grade cameras. Using [stereophotogrammetry](https://en.wikipedia.org/wiki/Photogrammetry#Stereophotogrammetry), the photographs were combined into a point cloud, providing additional detail about the object. 
 
-The drive map point cloud was then combined with all the point clouds that had been created for individual objects, and the result was put into a database. A point cloud viewer was then built to be able to move through the virtual landscape, to inspect the archaeological objects close up, and even to perform measurements of length, area, and volume&mdash;all in the virtual world. 
-
-
-
-Additionally, it becomes possible to query the shape of the environment: for example, you can then ask questions such as _Are there any objects nearby that have a volume of at least X m&sup3; ?_
+The point clouds resulting from stereophotogrammetry were then combined with the drive map point clous, and the result was put into a database. A point cloud viewer was then built to be able to move through the virtual landscape, to inspect the archaeological objects close up, and even to perform measurements of length, area, and volume&mdash;all in the virtual world. 
 
 # Usage
 
