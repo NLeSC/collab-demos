@@ -68,3 +68,22 @@ This mode is different from all the other modes, because all camera movement is 
 | ``d`` | does nothing |
 | ``q`` | does nothing |
 | ``z`` | does nothing |
+
+
+
+
+# All in one table
+
+| Button | On rails | Free fly |
+| --- | --- | --- |
+| ``LMB`` | - | - |
+| ``MMB`` | zoom in/out | zoom in/out |
+| ``RMB`` | hold to change viewing direction (left/right/up/down) | hold to change viewing direction (left/right/up/down) |
+| ``w`` | move southeast (independent of viewing direction) | move forward in 3-D along the viewing direction vector |
+| ``a`` | - | move left (horizontally) |
+| ``s`` | move northwest (independent of viewing direction) | move backward in 3-D along the viewing direction vector |
+| ``d`` | - | move right (horizontally) |
+| ``q`` | - | move up |
+| ``z`` | - | move down |
+
+
