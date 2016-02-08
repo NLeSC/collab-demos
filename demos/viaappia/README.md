@@ -4,8 +4,8 @@
 - **url**: http://viaappia.esciencecenter.nl/
  - IP-whitelisting
  - Works better with GPU
-- **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be](https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be)
-- **contact person**: Maarten van Meersbergen
+- **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk](https://www.youtube.com/watch?v=I3DLXSrRiyk)
+- **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
 
 
 # General idea of the project
