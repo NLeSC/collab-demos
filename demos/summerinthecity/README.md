@@ -51,5 +51,5 @@ _High-resolution modeling requires a lot of compute power_
 - A [video](https://vimeo.com/109430452) about the project
 - Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
 - ~~Browse [the code](https://github.com/NLeSC/summer-in-the-city) on Github~~
-- ~~A [screencast](https://vimeo.com/channels/894927) of the demo on Vimeo~~
+- A [screencast](https://vimeo.com/154200273) of the demo on Vimeo
 - pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FSummerInTheCity&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
