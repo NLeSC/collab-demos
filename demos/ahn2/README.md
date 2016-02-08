@@ -6,14 +6,25 @@
 
 # General idea of the project
 
+TODO
+
 # Demo usage
+
+TODO
 
 ## Known quirks
 
+TODO
+
 # Scientifically interesting aspects
+
+TODO
 
 # Technologically interesting aspects
 
+TODO
+
 # Further reading
 
+TODO
 
