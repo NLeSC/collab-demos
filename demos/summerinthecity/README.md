@@ -4,9 +4,7 @@
 - **screencast**: [https://vimeo.com/154200273](https://vimeo.com/154200273)
 - **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
 
-![alt text](/demos/summerinthecity/screenshot-demo-summer-in-the-city.png "Logo Title Text 1")
-
-
+![screenshot](/demos/summerinthecity/screencapture-demo-summer-in-the-city.png "Summer in the City screenshot")
 
 # General idea of the project
 
