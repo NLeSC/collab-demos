@@ -1,7 +1,7 @@
 
 
 - **url:**  [http://jiskattema.github.io/summerinthecity/](http://jiskattema.github.io/summerinthecity/)
-- ~~**screencast**: [https://vimeo.com/channels/894927](https://vimeo.com/channels/894927)~~
+- **screencast**: [https://vimeo.com/154200273](https://vimeo.com/154200273)
 - **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
 
 
