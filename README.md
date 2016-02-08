@@ -6,7 +6,7 @@ Overview of Collab demos:
 
 | Name |  Demo | Document | Screencast | Code | Presentation
 | --- | --- | --- | --- | --- | --- |
-| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | :x: | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) | :x:&sup1; |
+| ahn2 | [:arrow_upper_right:](http://ahn2.pointclouds.nl/)  | [:white_check_mark:](/demos/ahn2/README.md) | [:white_check_mark:](/demos/ahn2/screencast-demo-ahn2-maasvlakte.mp4) | [:white_check_mark:](https://github.com/NLeSC/ahn-pointcloud-viewer) | :x:&sup1; |
 | eecology | :x:&sup1; | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=eecology) | :x:&sup1; |
 | esalsa | :x:&sup2; | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa) | :x:&sup1; |
 | ewatercycle | [:arrow_upper_right:](http://forecast.ewatercycle.org/)  | :x: | :x: | [:white_check_mark:](https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle) | :x:&sup1; |
