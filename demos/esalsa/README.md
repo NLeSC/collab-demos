@@ -2,7 +2,7 @@
 
 - **url**: N/A
   - Not a webdemo, uses data local to the Collab machine
-- **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
+- **screencast**: TODO
 - **contact person**: [Jason Maassen](https://www.esciencecenter.nl/profile/dr.-jason-maassen)
 
 
@@ -28,7 +28,6 @@ TODO
 
 # Further reading
 
-TODO
-
-
+- [video](https://vimeo.com/111754358)
+- TODO
 
