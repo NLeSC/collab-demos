@@ -29,6 +29,8 @@ TODO
 # Further reading
 
 - Project [website](https://www.esciencecenter.nl/project/esalsa)
+- Browse the code on Github
+- A screencast of the demo on Vimeo
+- pitch presentations on sharepoint
 - [video](https://vimeo.com/111754358)
 - TODO
-
