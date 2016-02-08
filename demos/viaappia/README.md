@@ -1,6 +1,6 @@
 
 - **url**: http://viaappia.esciencecenter.nl/ (IP-whitelisting)
-- ~~**screencast**: [https://vimeo.com/channels/894927](https://vimeo.com/channels/894927)~~
+- **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be](https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be)
 - **contact person**: Maarten van Meersbergen
 
 
