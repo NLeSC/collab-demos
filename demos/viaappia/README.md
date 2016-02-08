@@ -3,7 +3,7 @@
 
 - **url**: http://viaappia.esciencecenter.nl/
  - IP-whitelisting
- - GPU
+ - Works better with GPU
 - **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be](https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be)
 - **contact person**: Maarten van Meersbergen
 
