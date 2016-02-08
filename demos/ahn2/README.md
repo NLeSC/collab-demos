@@ -4,3 +4,16 @@
 - **contact person**: [Oscar Martinez-Rubi](https://www.esciencecenter.nl/profile/oscar-martinez-rubi-msc)
 
 
+# General idea of the project
+
+# Demo usage
+
+## Known quirks
+
+# Scientifically interesting aspects
+
+# Technologically interesting aspects
+
+# Further reading
+
+
