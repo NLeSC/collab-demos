@@ -27,5 +27,8 @@ TODO
 
 # Further reading
 
-TODO
-
+- Project website
+- Browse the code on Github
+- A screencast of the demo on Vimeo
+- pitch presentations on sharepoint
+- TODO
