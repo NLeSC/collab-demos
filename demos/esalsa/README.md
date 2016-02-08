@@ -1,6 +1,6 @@
 # In short
 
-- **url**: ~~[http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)~~
+- **url**: N/A
   - Not a webdemo, uses data local to the Collab machine
 - **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
 - **contact person**: [Jason Maassen](https://www.esciencecenter.nl/profile/dr.-jason-maassen)
