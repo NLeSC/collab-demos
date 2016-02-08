@@ -1,5 +1,9 @@
 
-- **url**: http://viaappia.esciencecenter.nl/ (IP-whitelisting)
+# In short
+
+- **url**: http://viaappia.esciencecenter.nl/
+ - IP-whitelisting
+ - GPU
 - **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be](https://www.youtube.com/watch?v=I3DLXSrRiyk&feature=youtu.be)
 - **contact person**: Maarten van Meersbergen
 
