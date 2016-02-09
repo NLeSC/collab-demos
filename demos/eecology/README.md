@@ -1,6 +1,6 @@
 # In short
 
-- **url**: ~~[http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)~~
+- **url**: [http://annotation.e-ecology.vm.surfsara.nl/aws](http://annotation.e-ecology.vm.surfsara.nl/aws)
   - Requires login
 - **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
