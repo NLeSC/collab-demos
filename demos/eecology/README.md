@@ -30,6 +30,7 @@ TODO
 
 - Project website
 - Browse the code on Github
-- A screencast of the demo on Vimeo
+- Screencast video of the demo on Vimeo
+- Project [video](https://vimeo.com/106796321)
 - pitch presentations on sharepoint
 - TODO
