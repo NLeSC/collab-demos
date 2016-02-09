@@ -60,5 +60,10 @@ The demo uses **IP-whitelisting** to get the data from the server (which is loca
 
 - Project [website](https://www.esciencecenter.nl/via-appia)
 - [http://mappingtheviaappia.nl/3dgis/](http://mappingtheviaappia.nl/3dgis/)
-- [Video](https://youtu.be/I3DLXSrRiyk) made by Rens de Hond
+- Project [video](https://youtu.be/I3DLXSrRiyk) made by Rens de Hond
 - Fugro's drive-map service [website](http://www.drive-map.eu/drive-map-data/default.asp)
+- ~~Browse the code on Github~~
+- A [screencast](https://vimeo.com/154200277) of the demo on Vimeo
+- pitch presentations on sharepoint
+- TODO
+
