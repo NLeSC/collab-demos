@@ -32,5 +32,6 @@ TODO
 - Browse the code on Github
 - A screencast of the demo on Vimeo
 - pitch presentations on sharepoint
-- [video](https://vimeo.com/111754358)
+- [video](https://vimeo.com/111754358) on Vimeo
+- [video](https://vimeo.com/102108007) on Vimeo
 - TODO
