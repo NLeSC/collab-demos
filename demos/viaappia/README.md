@@ -58,13 +58,6 @@ The demo uses **IP-whitelisting** to get the data from the server (which is loca
 
 # Further reading
 
-- Project [video](https://youtu.be/I3DLXSrRiyk) made by Rens de Hond
-
-- ~~Browse the code on Github~~
-- A [screencast](https://vimeo.com/154200277) of the demo on Vimeo
-- pitch presentations on sharepoint
-- TODO
- 
 - Project [website](https://www.esciencecenter.nl/via-appia) on esciencecenter.nl
 - Project [video](https://youtu.be/I3DLXSrRiyk) on youtube.com made by Rens de Hond
 - A screencast [video](https://vimeo.com/154200277) of the demo on vimeo.com
