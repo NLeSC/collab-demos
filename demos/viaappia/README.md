@@ -58,7 +58,13 @@ The demo uses **IP-whitelisting** to get the data from the server (which is loca
 
 # Further reading
 
-- Project [website](https://www.esciencecenter.nl/via-appia)
+- Project [website](https://www.esciencecenter.nl/via-appia) on esciencecenter.nl
+- Project [video](https://youtu.be/I3DLXSrRiyk) on youtube.com made by Rens de Hond
+- A screencast [video](https://vimeo.com/154200277) of the demo on vimeo.com
+- ~~Browse [the code] on github.com~~
+- Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FVia%20Appia&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572})
 - [http://mappingtheviaappia.nl/3dgis/](http://mappingtheviaappia.nl/3dgis/)
-- [Video](https://youtu.be/I3DLXSrRiyk) made by Rens de Hond
 - Fugro's drive-map service [website](http://www.drive-map.eu/drive-map-data/default.asp)
+
+
+
