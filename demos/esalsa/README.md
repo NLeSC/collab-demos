@@ -4,6 +4,9 @@
   - Not a webdemo, uses data local to the Collab machine
 - **screencast**: TODO
 - **contact person**: [Jason Maassen](https://www.esciencecenter.nl/profile/dr.-jason-maassen)
+- **screenshot**: 
+ 
+![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
 
 
 # General idea of the project
