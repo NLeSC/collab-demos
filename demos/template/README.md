@@ -5,7 +5,7 @@
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
 - **screenshot**: 
  
-![screenshot](/demos/<projectname>/screencapture-demo-<projectname>.png "<projectname> demo screenshot")
+![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
 
 # General idea of the project
 
