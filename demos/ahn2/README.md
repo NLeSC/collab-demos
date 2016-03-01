@@ -4,6 +4,9 @@
   - Works better with GPU
 - **screencast**: [https://vimeo.com/154200270](https://vimeo.com/154200270)
 - **contact person**: [Oscar Martinez-Rubi](https://www.esciencecenter.nl/profile/oscar-martinez-rubi-msc)
+- **screenshot**: 
+
+![screenshot](/demos/ahn2/screencapture-demo-ahn2.png "AHN2 Screenshot")
 
 
 # General idea of the project
