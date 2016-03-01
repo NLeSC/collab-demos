@@ -3,7 +3,9 @@
 - **url**: [someurl](someurl)
 - **screencast**: Not available
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
-- **screenshot**: Not available
+- **screenshot**: 
+ 
+![screenshot](/demos/<projectname>/screencapture-demo-<projectname>.png "<projectname> demo screenshot")
 
 # General idea of the project
 
