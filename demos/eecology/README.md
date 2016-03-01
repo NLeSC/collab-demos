@@ -4,6 +4,9 @@
   - Requires login
 - **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
+- **screenshot**: 
+ 
+![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
 
 
 # General idea of the project
