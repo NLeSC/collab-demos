@@ -16,7 +16,9 @@ TODO
 
 # Demo usage
 
-TOD
+TODO
+
+[General remarks](demo-usage-general-remarks)
 
 ## Known quirks
 
