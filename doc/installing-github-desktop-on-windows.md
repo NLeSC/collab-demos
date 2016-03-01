@@ -1,5 +1,5 @@
 
-Let's say you want to get a local copy of this repository. There is a ``Download ZIP`` button on the [main](../) website, but that does curently not give you all the files in the repository (it skips the larger files, which are stored in [git-lfs](https://git-lfs.github.com/)). Fortunately, there is a relatively simple solution:
+Let's say you want to get a local copy of this repository. There is a ``Download ZIP`` button on the [main](../../../) website, but that does curently not give you all the files in the repository (it skips the larger files, which are stored in [git-lfs](https://git-lfs.github.com/)). Fortunately, there is a relatively simple solution:
 
 1. Download and install GitHub Desktop from [http://desktop.github.com/](http://desktop.github.com/)
 3. Start the application by clicking the icon on your desktop
