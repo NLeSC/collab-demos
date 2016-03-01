@@ -42,5 +42,5 @@ TODO
 - Follow-up H2020 proposal [nD-PointCloud](http://www.gdmc.nl:8080/mpc/nd-pointcloud)
 - External project [website](http://pointclouds.nl)
 - Final report ([pdf](https://nlesc.sharepoint.com/Shared%20Documents/NLeSC%20Project%20Presentations/Closed/Massive%20point%20cloud%20for%20eSciences/End%20Report.pdf); requires login)
-- [Overview](http://www.gdmc.nl:8080/mpc/nd-pointcloud) of papers
+- [Overview](http://www.gdmc.nl:8080/mpc/documents/papers) of papers
 
