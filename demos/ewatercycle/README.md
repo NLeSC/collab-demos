@@ -18,6 +18,9 @@ TODO
 
 ## Known quirks
 
+See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+
+
 TODO
 
 # Scientifically interesting aspects
