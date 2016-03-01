@@ -1,7 +1,7 @@
 # In short
 
-- **url**: ~~[http://ahn2.pointclouds.nl/](http://ahn2.pointclouds.nl/)~~
-- **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
+- **url**: ~~[someurl](someurl)~~
+- **screencast**: Not available
 - **contact person**: [Carlos Martinez-Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz)
 - **screenshot**: 
  
@@ -30,8 +30,11 @@ TODO
 
 # Further reading
 
-- Project website
-- Browse the code on Github
-- A screencast of the demo on Vimeo
-- pitch presentations on sharepoint
-- TODO
+- Project [website] on esciencecenter.nl
+- Project [video] on vimeo.com
+- A screencast [video] of the demo on vimeo.com
+- Browse [the code] on github.com
+- Pitch presentations on [sharepoint]
+- Follow-up project [THE_PROJECT]
+- other item
+
