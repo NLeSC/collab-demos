@@ -24,6 +24,7 @@ When hovering over the map, a pop-up shows some summary statistics, such as the 
 ## Known quirks
 - UHI vector overlay only visible for intermediate zoom levels. If you zoom out too much, you see only 'gemeentes' without color information on temperature; zoom in too much and you see only houses.
 
+See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Technologically interesting aspects
