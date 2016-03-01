@@ -1,4 +1,4 @@
-
+# General remarks for usage of the demos
 
 Most developers use Google Chrome as their main browser during development of a web demo, so that browser is least likely to give you unexpected behavior.
 
