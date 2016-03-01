@@ -32,7 +32,7 @@ TODO
 - Project [website] on esciencecenter.nl
 - Project [video] on vimeo.com
 - A screencast [video] of the demo on vimeo.com
-- Browse [https://github.com/NLeSC/UncertaintyVisualization/](https://github.com/NLeSC/UncertaintyVisualization/) on github.com
+- Browse [the code](https://github.com/NLeSC/UncertaintyVisualization/) on github.com
 - Pitch presentations on [sharepoint]
 - Follow-up project [THE_PROJECT]
 - other item
