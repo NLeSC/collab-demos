@@ -21,6 +21,9 @@ TODO
 
 TODO
 
+See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+
+
 # Scientifically interesting aspects
 
 TODO
