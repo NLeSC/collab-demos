@@ -4,7 +4,9 @@
 - **url**: [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)
 - **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
 - **contact person**: [Niels Drost](https://www.esciencecenter.nl/profile/dr.-niels-drost)
-
+- **url**: 
+ 
+![screenshot](/demos/ewatercycle/screencapture-demo-ewatercycle.png "eWaterCycle demo screenshot")
 
 # General idea of the project
 
