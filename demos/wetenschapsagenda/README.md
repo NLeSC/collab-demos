@@ -3,7 +3,9 @@
 - **url**: [http://wetenschapsagenda.esciencecenter.nl](http://wetenschapsagenda.esciencecenter.nl)
 - **screencast**: N/A
 - **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
-- **screenshot**: Not available
+- **screenshot**: 
+
+![screenshot](/demos/wetenschapsagenda/screencapture-demo-wetenschapsagenda.png "Screenshot demo Nationale Wetenschapsagenda")
 
 
 # General idea of the project
