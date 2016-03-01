@@ -1,11 +1,11 @@
 # In short
 
-- **url**: [someurl](someurl)
+- **url**: [https://nlesc.github.io/UncertaintyVisualization/](https://nlesc.github.io/UncertaintyVisualization/)
 - **screencast**: Not available
-- **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
+- **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
 - **screenshot**: 
  
-![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
+![screenshot](/demos/uncertainty-visualization/screencapture-demo-uncertainty-visualization.png "Uncertainty Visualization demo screenshot")
 
 # General idea of the project
 
