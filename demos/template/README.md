@@ -18,7 +18,7 @@ TODO
 
 TODO
 
-[General remarks](demo-usage-general-remarks)
+See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 ## Known quirks
 
