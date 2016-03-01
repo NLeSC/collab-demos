@@ -46,6 +46,9 @@ Also the demo sometimes crashes unexpectedly. It is currently unknown what cause
 
 The demo uses **IP-whitelisting** to get the data from the server (which is located in Germany). In practice, this means that the webdemo will work as long as you are showing the demo on a computer anywhere in The Netherlands eScience Center including the Collaboratorium (as long as you use a wired network connection).
 
+See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+
+
 # Scientifically interesting aspects
 
 - Different types of questions can now be asked
