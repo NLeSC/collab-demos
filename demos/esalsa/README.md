@@ -1,7 +1,7 @@
 # In short
 
 - **url**: N/A
-  - Not a webdemo, uses data local to the Collab machine
+  - Not a webdemo, uses data local to the Collab Windows machine
 - **screencast**: TODO
 - **contact person**: [Jason Maassen](https://www.esciencecenter.nl/profile/dr.-jason-maassen)
 - **screenshot**: 
