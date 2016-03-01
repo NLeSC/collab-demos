@@ -1,6 +1,9 @@
 # In short
 
 - **url**: [someurl](someurl)
+   - IP-whitelisting
+   - Requires login
+   - Works better with GPU
 - **screencast**: Not available
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
 - **screenshot**: 
@@ -18,6 +21,11 @@ TOD
 ## Known quirks
 
 TODO
+
+- IP-whitelisting
+- Requires login
+- Works better with GPU
+
 
 # Technologically interesting aspects
 
