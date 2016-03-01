@@ -11,7 +11,7 @@ Some webdemos have additional requirements. These are explained below.
 
 **IP-whitelisting**
 
-Some demos download data from an external database. It can happen that the database has been configured in such a way that it allows requests for data, as long as that request is made from a certain Internet Protocol or _IP_ address. It is usually possible to add IP addresses to the database's list, but this requires intervention by the database's administrator and therefore may take a few days.
+Some demos download data from an external database. It can happen that the database has been configured in such a way that it will allow a request for data as long as that request is made from a known (or _whitelisted_) Internet Protocol or _IP_ address. Typically, the Collab's IP address is on the whitelist, so the demo will work when you are using wired internet in the Collab, but that does not automatically mean it also works via wireless, since the wireless IP range may not be on the whitelist. Of course, this is also true for venues other than the Collab. Fortunately, it is usually possible to add IP addresses to the database's list, but this requires intervention by the database's administrator and therefore may take a few days.
 
 **Credentials**
 
