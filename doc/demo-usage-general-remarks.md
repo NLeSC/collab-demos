@@ -11,7 +11,7 @@ Some webdemos have additional requirements. These are explained below.
 
 **IP-whitelisting**
 
-TODO
+Some demos download data from an external database. It can happen that the database has been configured in such a way that it allows requests for data, as long as that request is made from a certain Internet Protocol or _IP_ address. It is usually possible to add IP addresses to the database's list, but this requires intervention by the database's administrator and therefore may take a few days.
 
 **Credentials**
 
