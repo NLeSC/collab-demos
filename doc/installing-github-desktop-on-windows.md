@@ -7,6 +7,6 @@ Let's say you're on Windows and want to get a local copy of this repository. The
 5. In the upper left corner of the application, click the '+' sign button
 6. At the top of the dialog, there are 3 options, ``Add``, ``Create``, and ``Clone``. Select ``Clone``
 7. You now see the repositories of which you are a member
-8. Select ``collab-demos``
+8. Select ``collab-demos`` and click on the tick mark at the bottom
 9. Wait for the download to finish
 10. Use your file explorer to navigate to the local copy of your repository, it should include all files, including local copies of large (video) files.
