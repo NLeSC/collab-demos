@@ -10,13 +10,31 @@
 
 # General idea of the project
 
-TODO
-- Traditional approach to bird migration: observe birds at their stopover sites or nests or colonies
-    - dificulties:
+This demo is part of a larger effort to better understand bird migration. Traditionally, bird migration is studied by expert observers who go out into the field to observe birds at their stopover sites, nests, colonies, or other sites that are known to be important. Due to the nature of the observation process, it is difficult to answer certain research questions, e.g. with respect to:
 
-- New approach
-    - GPS logger with additional sensors, e.g. accelerometer
-    - machine learning (support vector machines?)
+- night-time behavior
+- foraging behavior
+- energy expenditure
+- travel time of migration
+- response to environmental factors such as rain storms during flight
+- densities of bird migration
+
+The e-Ecology project aims to address some of these problems by integrating two new sources of data into the traditional workflow:
+
+1. the use of custom-made GPS tracking devices to study individual birds
+1. the use of Doppler-capable weather radars to observe density of migration
+
+This repository/demo pertains to the former.
+
+_About the GPS tracker_
+
+- solar powered with battery
+- accelerometer and other sensors
+- automatic download of data to base stations
+- enough storage to measure at very high frequency for long periods of time
+- measurement schedule can be updated while the bird flying
+- web application to manage trackers remotely from 1000s of kilometers away
+
 
 # Demo usage
 
@@ -26,16 +44,28 @@ TODO
 
 See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
-
 TODO
 
 # Scientifically interesting aspects
 
-TODO
+New insights about behavior of individual birds:
+
+   - response to rain storms
+   - response to dust storms
+   - response to wind direction at different altitudes
+   - anthropogenic effects: landfills, water treatment plants
+   - foraging area: some gulls forage from The Netherlands to England
+   - how birds utilize local wind effects to minimize energy expenditure, for example by using the updraft along coastal dunes
+   - finding mate/fidelity
+   - sleeping/resting behavior while floating at sea
 
 # Technologically interesting aspects
 
-TODO
+- tracker
+- bringing together data sources in one web application
+- machine learning to automatically recognize (anomalous) bird behavior
+- remote administration of trackers
+
 
 # Further reading
 
