@@ -67,7 +67,11 @@ See also the [general remarks](/doc/demo-usage-general-remarks.md) about web dem
 - Project [website](https://www.esciencecenter.nl/via-appia) on esciencecenter.nl
 - Project [video](https://youtu.be/I3DLXSrRiyk) on youtube.com made by Rens de Hond
 - A screencast [video](https://vimeo.com/154200277) of the demo on vimeo.com
-- ~~Browse [the code] on github.com~~
+- Browse the code on github.com:
+  - [PattyData](https://github.com/NLeSC/PattyData): data management for the Via Appia 3D GIS
+  - [PattyVis](https://github.com/NLeSC/PattyVis): WebGL pointcloud visualization of the Via Appia 3D GIS based on potree.
+  - [PattyAnalytics](https://github.com/NLeSC/PattyAnalytics): Reusable point cloud analytics software. Includes segmentation, registration, file format conversion.
+  - [structure-from-motion](https://github.com/NLeSC/structure-from-motion): Structure from Motion Pipeline: stereophotogrammetry
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FVia%20Appia&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572})
 - [http://mappingtheviaappia.nl/3dgis/](http://mappingtheviaappia.nl/3dgis/)
 - Fugro's drive-map service [website](http://www.drive-map.eu/drive-map-data/default.asp)
