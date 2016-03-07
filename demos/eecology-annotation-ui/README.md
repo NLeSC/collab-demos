@@ -11,6 +11,13 @@
 # General idea of the project
 
 TODO
+- Traditional approach to bird migration: observe birds at their stopover sites or nests or colonies
+  - dificulties:
+
+- New approach
+  - GPS logger with additional sensors, e.g. accelerometer
+  - machine learning (support vector machines?)
+  - 
 
 # Demo usage
 
