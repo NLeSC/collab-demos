@@ -1,7 +1,6 @@
 # In short
 
-- **url**: [http://annotation.e-ecology.vm.surfsara.nl/aws](http://annotation.e-ecology.vm.surfsara.nl/aws)
-  - Requires login
+- **url**: [http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html](http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html)
 - **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**: 
