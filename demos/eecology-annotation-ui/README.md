@@ -29,7 +29,7 @@ This repository/demo pertains to the former.
 _About the GPS tracker_
 
 - solar powered with battery
-- GPS sensor, accelerometer, temperature, and other sensors
+- GPS sensor, [accelerometer](http://static.sfdict.com/staticrep/dictaudio/A00/A0054100.mp3), temperature, and other sensors
 - automatic download of data to base stations
 - enough storage to measure at very high frequency for long periods of time
 - measurement schedule can be updated while the bird flying
