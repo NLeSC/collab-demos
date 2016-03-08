@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 
 import json
 import sys
@@ -30,17 +32,14 @@ class JsonToSrt():
                     raise e
 
     def convert(self):
-        with open(self.outfile, 'w') as f:
-            pass
 
+        fmt = '%d\n%s --> %s\n%s\n\n'
         index = 0
-        for subtitle in self.data['subtitles']:
-            index += 1
-            print index
-            print subtitle['from']
-            print subtitle['to']
-            print subtitle['string']
-            print 
+
+        with open(self.outfile, 'w') as f:
+            for subtitle in self.data['subtitles']:
+                index += 1
+                f.write(fmt % (index, subtitle['from'], subtitle['to'], subtitle['string']))
 
 
 if __name__ == '__main__':
