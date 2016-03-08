@@ -4,12 +4,187 @@
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string 1"
+            "string": "start with an empty webapp, only show Timeline and Annotation (both collapsed)"
         },
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string 2"
+            "string": "Mouseover Tracker dropdown: each bird has a tracker id. We'll use 355, a Lesser black backed gull a.k.a a seagull"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'From' calendar: select 2010-06-28"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'From' time: select 00:00:00"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'To' calendar: select 2010-06-29"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'To' time: select 06:00:00"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover Timeline: expand Timeline"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "click Load tracker button"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Expand timeline"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "The bird has different behavior at different times: the colors show what each behavior is"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Expand the Annotations widget"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Let's see how those annotations come to be"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Let's look at the gray area, which represents the bird sitting on the ground"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "If a bird is sitting on the ground you expect both its speed and its altitude to be low"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Let's visualize some additional tracker data to see if that is true"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'Windows' button"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Check 'speed'"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "So the speed is low for this time period"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Let's add altitude"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'Windows' button, check 'altitude'"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "So altitude is also low for this time period."
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "But it's a bit difficult to see, let's make it bigger"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Maximize altitude widget"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "The blue line represents GPS altitude"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "The blue area represents the altitude based looking up the surface elevation at the bird's location"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "They are very close. Ergo the bird is sitting on the ground"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "But wait there is more"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "These little gray lines..."
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover Timeline plot gray lines"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "...mean that an accelerometer measurement was taken at that time."
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Let's look at the accelerometer data"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "Mouseover 'Window' , select Accelerometers" 
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string"
         }
     ]
 }
