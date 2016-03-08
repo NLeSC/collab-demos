@@ -120,29 +120,41 @@ Mouseover Timeline plot gray lines
 
 31
 00:00:00,000 --> 00:00:00,000
-Let's look at the data
+Let's look at the accelerometer data
 
 32
 00:00:00,000 --> 00:00:00,000
-string
+Mouseover 'Window' , select Accelerometers
 
 33
 00:00:00,000 --> 00:00:00,000
-string
+Accelerometer measurements are taken in bursts of a few seconds, using an increased measurement frequency
 
 34
 00:00:00,000 --> 00:00:00,000
-string
+The lower widget shows the 6 bursts closest to the current time
 
 35
 00:00:00,000 --> 00:00:00,000
-string
+Mouseover time slider, slide to beginning of gray/sitting area
 
 36
 00:00:00,000 --> 00:00:00,000
-string
+Accelerometer shows acceleration in 3-D
 
 37
 00:00:00,000 --> 00:00:00,000
-string
+Coincidentally, the sensor is oriented almost exactly horizontal when the bird is sitting
+
+38
+00:00:00,000 --> 00:00:00,000
+You can see this in the acceleration data: green is vertical...
+
+39
+00:00:00,000 --> 00:00:00,000
+...which registers about 1.0 G...
+
+40
+00:00:00,000 --> 00:00:00,000
+...while the other axes register about 0.0 G.
 

@@ -164,27 +164,41 @@
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string"
+            "string": "Accelerometer measurements are taken in bursts of a few seconds, using an increased measurement frequency"
         },
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string"
+            "string": "The lower widget shows the 6 bursts closest to the current time"
         },
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string"
+            "string": "Mouseover time slider, slide to beginning of gray/sitting area"
         },
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string"
+            "string": "Accelerometer shows acceleration in 3-D"
         },
         {
             "from": "00:00:00,000",
             "to": "00:00:00,000",
-            "string": "string"
-        }
-    ]
+            "string": "Coincidentally, the sensor is oriented almost exactly horizontal when the bird is sitting"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "You can see this in the acceleration data: green is vertical..."
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "...which registers about 1.0 G..."
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "...while the other axes register about 0.0 G."
+        }    ]
 }
