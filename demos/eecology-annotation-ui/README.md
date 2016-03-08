@@ -1,6 +1,9 @@
 # In short
 
 - **url**: [http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html](http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html)
+   - IP-whitelisting: No. _The gull data is publicly available_
+   - GPU: Not required, but it does help
+   - Login required: No
 - **screencast**: [https://vimeo.com/158029473](https://vimeo.com/158029473)
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
@@ -44,7 +47,9 @@ For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.
 
 See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
-TODO
+There's a small issue with the red time slider when maximizing a widget.
+
+
 
 # Scientifically interesting aspects
 
