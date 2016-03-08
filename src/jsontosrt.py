@@ -4,7 +4,7 @@
 import json
 import sys
 import os
-
+import re
 
 class JsonToSrt():
 
@@ -36,8 +36,23 @@ class JsonToSrt():
 
         def outOfSequence(timestrEarly, timestrLate):
 
-            # TODO
-            pass
+            listEarly = re.split("[^0-9]+", timestrEarly)
+            timeEarly = float(listEarly[3])+\
+                        float(listEarly[2]) * 1000 +\
+                        float(listEarly[1]) * 60 * 1000 +\
+                        float(listEarly[0]) * 60 * 60 * 1000
+
+            listLate = re.split("[^0-9]+", timestrLate)
+            timeLate = float(listLate[3]) +\
+                       float(listLate[2]) * 1000 +\
+                       float(listLate[1]) * 60 * 1000 +\
+                       float(listLate[0]) * 60 * 60 * 1000
+
+            if timeEarly > timeLate:
+                return True
+            else:
+                return False
+
 
         fmt = '%d\n%s --> %s\n%s\n\n'
         index = 0
@@ -50,7 +65,7 @@ class JsonToSrt():
                 timeTo =  subtitle['to']
                 sub = subtitle['string']
                 if outOfSequence(prevTimeTo, timeFrom):
-                    print('warning: out-of-sequence time label for subtitle %d on time = %s: "%s".' % (index - 1, timeFrom, sub))
+                    print('warning: out-of-sequence time label for subtitle %d on time = %s: "%s".' % (index, timeFrom, sub))
                 else:
                     f.write(fmt % (index, timeFrom, timeTo, sub))
 
