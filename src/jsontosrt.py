@@ -34,13 +34,28 @@ class JsonToSrt():
 
     def convert(self):
 
+        def outOfSequence(timestrEarly, timestrLate):
+
+            # TODO
+            pass
+
         fmt = '%d\n%s --> %s\n%s\n\n'
         index = 0
-
+        prevTimeTo = '00:00:00,000';
         with open(self.outfile, 'w') as f:
             for subtitle in self.data['subtitles']:
                 index += 1
-                f.write(fmt % (index, subtitle['from'], subtitle['to'], subtitle['string']))
+
+                timeFrom = subtitle['from']
+                timeTo =  subtitle['to']
+                sub = subtitle['string']
+                if outOfSequence(prevTimeTo, timeFrom):
+                    print('warning: out-of-sequence time label for subtitle %d on time = %s: "%s".' % (index - 1, timeFrom, sub))
+                else:
+                    f.write(fmt % (index, timeFrom, timeTo, sub))
+
+                prevTimeTo = timeTo
+
 
 
 if __name__ == '__main__':
