@@ -39,7 +39,7 @@ _About the GPS tracker_
 # Demo usage
 
 ## storylines
-- [one](/demo/eecology-annotation-ui/demo-storyline.srt)
+- [one](/demos/eecology-annotation-ui/demo-screencast.mp4.srt)
 
 ## Known quirks
 
