@@ -29,7 +29,7 @@ This repository/demo pertains to the former.
 _About the GPS tracker_
 
 - solar powered with battery
-- accelerometer and other sensors
+- GPS sensor, accelerometer, temperature, and other sensors
 - automatic download of data to base stations
 - enough storage to measure at very high frequency for long periods of time
 - measurement schedule can be updated while the bird flying
@@ -54,16 +54,19 @@ New insights about behavior of individual birds:
    - response to dust storms
    - response to wind direction at different altitudes
    - anthropogenic effects: landfills, water treatment plants
-   - foraging area: some gulls forage from The Netherlands to England
+   - foraging area: 
+      - some gulls forage from The Netherlands all the way to England
+      - oyster catchers from different colonies do not forage at another colony's feeding grounds
    - how birds utilize local wind effects to minimize energy expenditure, for example by using the updraft along coastal dunes
    - finding mate/fidelity
    - sleeping/resting behavior while floating at sea
+ 
 
 # Technologically interesting aspects
 
 - tracker
 - bringing together data sources in one web application
-- machine learning to automatically recognize (anomalous) bird behavior
+- machine learning to automatically recognize (anomalous, previously unknown) bird behavior
 - remote administration of trackers
 
 
@@ -76,3 +79,4 @@ New insights about behavior of individual birds:
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeEcology&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572})
 - [http://www.uva-bits.nl/](http://www.uva-bits.nl/) 
 - [http://enram.eu/](http://enram.eu/)
+- Nederland van Boven [video](https://vimeo.com/85808414) about migration of Honey Buzzards 
