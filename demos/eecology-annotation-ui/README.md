@@ -65,6 +65,7 @@ New insights about behavior of individual birds:
    - how birds utilize local wind effects to minimize energy expenditure, for example by using the updraft along coastal dunes
    - finding mate/fidelity
    - sleeping/resting behavior while floating at sea
+   - interactive discovery using the web application
 
 
 # Technologically interesting aspects
