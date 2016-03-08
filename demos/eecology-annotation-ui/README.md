@@ -38,7 +38,7 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencapture.mkv' with subtitles (needs download).
+For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download).
 
 ## Known quirks
 
