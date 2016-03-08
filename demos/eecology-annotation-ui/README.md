@@ -1,7 +1,7 @@
 # In short
 
 - **url**: [http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html](http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html)
-   - IP-whitelisting: No. _The gull data is publicly available_
+   - IP-whitelisting: No. The gull data is publicly available
    - GPU: Not required, but it does help
    - Login required: No
 - **screencast**: [https://vimeo.com/158029473](https://vimeo.com/158029473)
