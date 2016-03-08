@@ -19,7 +19,8 @@ class JsonToSrt():
         else:
             self.infile = os.path.join(os.path.curdir, self.infile)
 
-        self.outfile = self.infile + '.srt'
+        infileNoExt = os.path.splitext(self.infile)[0]
+        self.outfile = infileNoExt + '.srt'
 
     def load(self):
         if os.path.isfile(self.infile):
