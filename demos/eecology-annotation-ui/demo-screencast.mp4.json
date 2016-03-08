@@ -1,0 +1,15 @@
+{
+    "_comment": "This file is used to generate subtitles",
+    "subtitles": [
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string 1"
+        },
+        {
+            "from": "00:00:00,000",
+            "to": "00:00:00,000",
+            "string": "string 2"
+        }
+    ]
+}
