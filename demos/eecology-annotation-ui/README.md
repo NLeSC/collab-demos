@@ -21,8 +21,8 @@ This demo is part of a larger effort to better understand bird migration. Tradit
 
 The e-Ecology project aims to address some of these problems by integrating two new sources of data into the traditional workflow:
 
-1. the use of custom-made GPS tracking devices to study individual birds
-1. the use of Doppler-capable weather radars to observe density of migration
+1. custom-made GPS tracking devices to study individual birds
+1. Doppler-capable weather radars to observe density of migration
 
 This repository/demo pertains to the former.
 
