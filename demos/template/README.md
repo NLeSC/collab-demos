@@ -1,9 +1,10 @@
 # In short
 
 - **url**: [someurl](someurl)
-   - IP-whitelisting
-   - Requires login
-   - Works better with GPU
+   - IP-whitelisting:
+   - Requires login:
+   - Works better with GPU:
+   - Database:
 - **screencast**: Not available
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
 - **screenshot**: 
