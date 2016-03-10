@@ -40,9 +40,9 @@ TODO
 # Further reading
 
 - Project [website](https://vimeo.com/109444671) on esciencecenter.nl
-- Project [video] on vimeo.com
+- Project [video](https://vimeo.com/109444671) on vimeo.com
 - A screencast [video] of the demo on vimeo.com
-- Browse [the code] on github.com
+- Browse [the code](https://github.com/NLeSC/MAGMa) on github.com
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeMetabolomics&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
 - Follow-up project [THE_PROJECT]
 - other item
