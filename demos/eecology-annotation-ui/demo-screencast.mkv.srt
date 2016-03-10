@@ -2,6 +2,10 @@
 00:00:00,000 --> 00:00:16,000
 start with an empty webapp, only show Timeline and Annotation (both collapsed)
 
+2
+00:00:17,000 --> 00:00:21,000
+Mouseover Tracker dropdown: each bird has a tracker id. We'll use 355, a Lesser black backed gull a.k.a a seagull
+
 3
 00:00:22,000 --> 00:00:27,000
 Mouseover 'From' calendar: select 2010-06-28
@@ -27,7 +31,7 @@ Mouseover Timeline: expand Timeline
 click Load tracker button
 
 9
-00:01:07,000 --> 00:01:10,000
+00:01:07,000 --> 00:01:14,000
 ...wait for data to load...
 
 10
