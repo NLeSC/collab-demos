@@ -2,7 +2,7 @@
 
 Most developers use Google Chrome as their main browser during development of a web demo, so that browser is least likely to give you unexpected behavior.
 
-All webdemos require **internet access**. Note that this is true even when you have a local copy of all the demo code&mdash;this is because the webdemos rely on additional JavaScript libraries (e.g. [jQuery](https://jquery.com/), [lodash](https://lodash.com/), [Bootstrap](http://getbootstrap.com/)) that are typically downloaded when you start the webdemo.
+All webdemos require **internet access**. Note that this is true even when you have a local copy of all the demo code&mdash;this is because the webdemos rely on additional JavaScript libraries (e.g. [jQuery](https://jquery.com/), [lodash](https://lodash.com/), [Bootstrap](http://getbootstrap.com/), [D3]()) that are typically downloaded when you start the webdemo.
 
 If you expect you won't have internet access at the presentation venue, it may be worthwhile to make a local copy or _clone_ of this repository beforehand, including all the video files. That way, you will at least be able to show the screencast video of the demos. [This](./getting-a-full-repo-copy.md) document describes how to clone a GitHub repository to a Windows system.
 
@@ -19,7 +19,7 @@ Some demos may require a login and password. What they are varies per demo. In a
 
 **GPU**
 
-Some webdemos use hardware acceleration using GPUs. If your laptop doesn't have a (decent) GPU, it will still work, but the demo may get prohibitively slow. If you plan on showing the demo in the Collab, it may be worthwile to use the Collab Windows machine instead of your own laptop, since the Collab machine has a decent GPU, in particular with respect to memory.
+Some webdemos use hardware acceleration using GPUs. If your laptop doesn't have a (decent) GPU, it will still work, but the demo may get prohibitively slow. If you plan on showing the demo in the Collab, it may be worthwile to use the Collab Windows machine instead of your own laptop, since the Collab machine has good GPU capabilities (dual Quadro K5000's; [specs](http://www.nvidia.com/object/quadro-k5000.html#pdpContent=2)), in particular with respect to memory.
 
 **Database**
 
