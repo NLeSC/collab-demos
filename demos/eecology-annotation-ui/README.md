@@ -4,6 +4,7 @@
    - IP-whitelisting: No. The gull data is publicly available
    - GPU: Not required, but it does help
    - Login required: No
+   - Database: too slow for more than a few hundred annotations (but performance not a problem for data without annotations)
 - **screencast**: [https://vimeo.com/158029473](https://vimeo.com/158029473)
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
