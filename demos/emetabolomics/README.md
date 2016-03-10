@@ -39,7 +39,7 @@ TODO
 
 # Further reading
 
-- Project [website](https://vimeo.com/109444671) on esciencecenter.nl
+- Project [website](https://www.esciencecenter.nl/project/chemical-informatics-for-metabolite-identification-and-biochemical-network) on esciencecenter.nl
 - Project [video](https://vimeo.com/109444671) on vimeo.com
 - A screencast [video] of the demo on vimeo.com
 - Browse [the code](https://github.com/NLeSC/MAGMa) on github.com
