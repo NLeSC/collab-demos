@@ -45,7 +45,7 @@ For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.
 
 ## Known quirks
 
-Known quirks are being collected in [this](/issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+Known quirks are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 
