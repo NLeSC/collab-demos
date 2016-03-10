@@ -32,7 +32,7 @@ This repository/demo pertains to the former.
 _About the GPS tracker_
 
 - solar powered with battery
-- GPS sensor, [accelerometer](http://static.sfdict.com/staticrep/dictaudio/A00/A0054100.mp3), temperature, and other sensors
+- GPS sensor, accelerometer [(:sound:)](http://static.sfdict.com/staticrep/dictaudio/A00/A0054100.mp3), temperature, and other sensors
 - automatic download of data to base stations
 - enough storage to measure at very high frequency for long periods of time
 - measurement schedule can be updated while the bird flying
@@ -41,14 +41,7 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download).
-
-## Known quirks
-
-See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
-
-There's a small issue with the red time slider when maximizing a widget.
-
+For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download), or view the [raw](/demos/eecology-annotation-ui/demo-screencast.mkv.srt) subtitle data. **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Scientifically interesting aspects
