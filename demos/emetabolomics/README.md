@@ -1,9 +1,9 @@
 # In short
 
 - **url**: [http://www.emetabolomics.org/magma](http://www.emetabolomics.org/magma)
-   - IP-whitelisting
-   - Requires login
-   - Works better with GPU
+   - ~~IP-whitelisting~~
+   - ~~Requires login~~
+   - ~~Works better with GPU~~
 - **screencast**: Not available
 - **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**: 
