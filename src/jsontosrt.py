@@ -36,22 +36,10 @@ class JsonToSrt():
 
         def outOfSequence(timestrEarly, timestrLate):
 
-            listEarly = re.split("[^0-9]+", timestrEarly)
-            timeEarly = float(listEarly[3])+\
-                        float(listEarly[2]) * 1000 +\
-                        float(listEarly[1]) * 60 * 1000 +\
-                        float(listEarly[0]) * 60 * 60 * 1000
+            timeEarly = self.timestr2timefloat(timestrEarly)
+            timeLate = self.timestr2timefloat(timestrLate)
 
-            listLate = re.split("[^0-9]+", timestrLate)
-            timeLate = float(listLate[3]) +\
-                       float(listLate[2]) * 1000 +\
-                       float(listLate[1]) * 60 * 1000 +\
-                       float(listLate[0]) * 60 * 60 * 1000
-
-            if timeEarly > timeLate:
-                return True
-            else:
-                return False
+            return timeEarly > timeLate
 
 
         fmt = '%d\n%s --> %s\n%s\n\n'
@@ -71,6 +59,16 @@ class JsonToSrt():
 
                 prevTimeTo = timeTo
 
+
+    def timestr2timefloat(self, timestr):
+
+        timelist = re.split("[^0-9]+", timestr)
+        timefloat = float(timelist[3])+\
+                    float(timelist[2]) * 1000 +\
+                    float(timelist[1]) * 60 * 1000 +\
+                    float(timelist[0]) * 60 * 60 * 1000
+
+        return timefloat
 
 
 if __name__ == '__main__':
