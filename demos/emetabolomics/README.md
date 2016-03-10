@@ -5,7 +5,7 @@
    - Requires login
    - Works better with GPU
 - **screencast**: Not available
-- **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
+- **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**: 
  
 ![screenshot](/demos/emetabolomics/screencapture-demo-emetabolomics.png "emetabolomics demo screenshot")
