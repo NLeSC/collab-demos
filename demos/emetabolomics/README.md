@@ -8,7 +8,7 @@
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
 - **screenshot**: 
  
-![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
+![screenshot](/demos/emetabolomics/screencapture-demo-emetabolomics.png "emetabolomics demo screenshot")
 
 # General idea of the project
 
