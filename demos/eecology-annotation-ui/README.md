@@ -41,13 +41,13 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download).
+For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download), or view the [raw](/demos/eecology-annotation-tool/demo-screencast.mkv.srt) subtitle data.
 
 ## Known quirks
 
-See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+Known quirks are being collected in [this](/issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
-There's a small issue with the red time slider when maximizing a widget.
+
 
 
 
