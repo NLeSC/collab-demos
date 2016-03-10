@@ -22,6 +22,8 @@ class JsonToSrt():
         infileNoExt = os.path.splitext(self.infile)[0]
         self.outfile = infileNoExt + '.srt'
 
+        self.subMinShownDuration = 4.0   #seconds
+
     def load(self):
         if os.path.isfile(self.infile):
             with open(self.infile, 'r') as f:
@@ -33,6 +35,13 @@ class JsonToSrt():
                     raise e
 
     def convert(self):
+
+        def subShownDurationTooShort(timestrEarly, timestrLate):
+
+            timeEarly = self.timestr2timefloat(timestrEarly)
+            timeLate = self.timestr2timefloat(timestrLate)
+
+            return (timeLate - timeEarly) < self.subMinShownDuration * 1000
 
         def outOfSequence(timestrEarly, timestrLate):
 
@@ -53,9 +62,12 @@ class JsonToSrt():
                 timeTo =  subtitle['to']
                 sub = subtitle['string']
                 if outOfSequence(prevTimeTo, timeFrom):
-                    print('warning: out-of-sequence time label for subtitle %d on time = %s: "%s".' % (index, timeFrom, sub))
-                else:
-                    f.write(fmt % (index, timeFrom, timeTo, sub))
+                    print('Out-of-sequence time label:\n' + fmt % (index, timeFrom, timeTo, sub))
+
+                if subShownDurationTooShort(timeFrom, timeTo):
+                    print('Subtitle shown for too short a time:\n' + fmt % (index, timeFrom, timeTo, sub))
+
+                f.write(fmt % (index, timeFrom, timeTo, sub))
 
                 prevTimeTo = timeTo
 
