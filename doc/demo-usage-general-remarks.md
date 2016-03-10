@@ -15,10 +15,14 @@ Some demos download data from an external database. It can happen that the datab
 
 **Credentials**
 
-TODO
+Some demos may require a login and password. What they are varies per demo. In any case, it's useful to keep your credentials for sharepoint handy, you may need it for showing the pitch presentations for example.
 
 **GPU**
 
-TODO
+Some webdemos use hardware acceleration using GPUs. If your laptop doesn't have a (decent) GPU, it will still work, but the demo may get prohibitively slow. If you plan on showing the demo in the Collab, it may be worthwile to use the Collab Windows machine instead of your own laptop, since the Collab machine has a decent GPU, in particular with respect to memory.
+
+**Database**
+
+Some demos get their data from a database. It can happen that the connection to that database is slow, even when the internet connection is good.
 
 
