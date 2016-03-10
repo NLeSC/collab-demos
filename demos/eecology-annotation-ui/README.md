@@ -41,14 +41,7 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download), or view the [raw](/demos/eecology-annotation-ui/demo-screencast.mkv.srt) subtitle data.
-
-## Known quirks
-
-Known quirks are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
-
-
-
+For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download), or view the [raw](/demos/eecology-annotation-ui/demo-screencast.mkv.srt) subtitle data. **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Scientifically interesting aspects
