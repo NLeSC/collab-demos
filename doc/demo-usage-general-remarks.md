@@ -26,3 +26,8 @@ Some webdemos use hardware acceleration using GPUs. If your laptop doesn't have 
 Some demos get their data from a database. It can happen that the connection to that database is slow, even when the internet connection is good.
 
 
+**Network**
+
+TODO network speed, interference of other nearby wireless devices
+
+
