@@ -52,7 +52,7 @@ _High-resolution modeling requires a lot of compute power_
 - Project [website](https://www.esciencecenter.nl/project/summer-in-the-city) on esciencecenter.nl
 - Project [video](https://vimeo.com/109430452) on vimeo.com
 - A screencast [video](https://vimeo.com/154200273) of the demo on vimeo.com
-- ~~Browse [the code] on github.com~~
+- Browse the code on github.com [one](https://github.com/jiskattema/wrf-wur.git), [two](https://github.com/jiskattema/wps-wur.git)
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FSummerInTheCity&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
 - Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
 - [Article](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)  from Amsterdam-based newspaper 'Het Parool' (July 16, 2014)
