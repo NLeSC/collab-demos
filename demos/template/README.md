@@ -3,8 +3,9 @@
 - **url**: [someurl](someurl)
    - IP-whitelisting:
    - Requires login:
-   - Works better with GPU:
-   - Database:
+   - Works better with GPU: (speed, memory)
+   - Database: (speed)
+   - Network: (speed, interference of other devices when on wireless)
 - **screencast**: Not available
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
 - **screenshot**: 
@@ -24,11 +25,6 @@ See also the [general remarks](/doc/demo-usage-general-remarks.md) about web dem
 ## Known quirks
 
 TODO
-
-- IP-whitelisting
-- Requires login
-- Works better with GPU
-
 
 # Technologically interesting aspects
 
