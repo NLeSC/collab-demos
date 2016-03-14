@@ -21,9 +21,13 @@ This presented us with a problem because the required _multi-resolution_ 3-D dat
 
 Notice different level of detail and tiling.
 
+- download subset
+- measure length, area, volume in 3-space 
+- 
+
 ## Known quirks
 
-Besides the [general remarks](/doc/demo-usage-general-remarks.md) about web demos, this demo does not usually work well over wireless network, due to the rate at which data is requested from the server. Furthermore, the demo works much better if you have a decent GPU.
+Besides the [general remarks](/doc/demo-usage-general-remarks.md) about web demos, this demo does not usually work well over wireless network, due to the rate at which data is requested from the server. Furthermore, the demo works much better if you have a decent GPU. Other quirks are being collected [here](../../issues/24).
 
 
 # Scientifically interesting aspects
