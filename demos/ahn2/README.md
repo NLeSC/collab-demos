@@ -19,6 +19,8 @@ This presented us with a problem because the required _multi-resolution_ 3-D dat
 
 # Demo usage
 
+Explain settings.
+
 Notice different level of detail and tiling.
 
 - download subset
