@@ -27,7 +27,7 @@ Notice different level of detail and tiling.
 
 ## Known quirks
 
-Besides the [general remarks](/doc/demo-usage-general-remarks.md) about web demos, this demo does not usually work well over wireless network, due to the rate at which data is requested from the server. Furthermore, the demo works much better if you have a decent GPU. Other quirks are being collected [here](../../issues/24).
+Besides the [general remarks](/doc/demo-usage-general-remarks.md) about web demos, this demo does not usually work well over wireless network, due to the rate at which data is requested from the server. Furthermore, the demo works much better if you have a decent GPU. Other quirks are being collected [here](/../../issues/24).
 
 
 # Scientifically interesting aspects
