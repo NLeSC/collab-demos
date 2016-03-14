@@ -1,18 +1,23 @@
 # In short
 
 - **url**: [http://www.emetabolomics.org/magma](http://www.emetabolomics.org/magma)
-   - ~~IP-whitelisting~~
-   - ~~Requires login~~
-   - ~~Works better with GPU~~
+    - IP-whitelisting: TODO
+    - Requires login: TODO
+    - Works better with GPU: (speed, memory) TODO
+    - Database: (speed) TODO
+    - Network: (speed, interference of other devices when on wireless) TODO
 - **screencast**: Not available
 - **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
-- **screenshot**: 
- 
+- **screenshot**:  
 ![screenshot](/demos/emetabolomics/screencapture-demo-emetabolomics.png "emetabolomics demo screenshot")
 
 # General idea of the project
 
-TODO
+- liquid chromatography/mass spectrometry
+    - In chemistry, if you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS. The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound.  
+- what are MS'es good at
+- personalized medicine
+- TODO
 
 # Demo usage
 
@@ -24,9 +29,12 @@ See also the [general remarks](/doc/demo-usage-general-remarks.md) about web dem
 
 TODO
 
-- IP-whitelisting
-- Requires login
-- Works better with GPU
+- IP-whitelisting:
+- Requires login:
+- Works better with GPU: (speed, memory)
+- Database: (speed)
+- Network: (speed, interference of other devices when on wireless)
+
 
 
 # Technologically interesting aspects
@@ -45,7 +53,7 @@ TODO
 - Browse [the code](https://github.com/NLeSC/MAGMa) on github.com
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeMetabolomics&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
 - Follow-up project [THE_PROJECT]
-- other item
+- Liquid chromatography/mass spectrometry on [wikipedia](https://en.wikipedia.org/wiki/Liquid_chromatography%E2%80%93mass_spectrometry)
 
 
 
