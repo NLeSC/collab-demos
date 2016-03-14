@@ -23,7 +23,7 @@ Notice different level of detail and tiling.
 
 - download subset
 - measure length, area, volume in 3-space 
-- 
+- TODO
 
 ## Known quirks
 
