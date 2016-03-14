@@ -21,7 +21,7 @@ This presented us with a problem because the required _multi-resolution_ 3-D dat
 
 Explain settings.
 
-Notice different level of detail and tiling.
+Notice different level of detail and tiling (you can enable visualization of the octree division under ``cog wheel``>>``Misc``>>``Bounding boxes``).
 
 - download subset
 - measure length, area, volume in 3-space 
