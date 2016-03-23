@@ -21,13 +21,13 @@ This presented us with a problem because the required _multi-resolution_ 3-D dat
 
 This demo visualizes the AHN2 dataset with 640 billion points using a renderer that extends the basic Potree renderer and using data structures generated with the [MassivePotree-Converter](https://github.com/NLeSC/Massive-PotreeConverter).
 
-- Depending on the hardware used for the demo set the quality setting accordingly. To change it press the setting button (the wheel in the left bottom of the page) and select one of the four quality modes. 
-- There are two navigation modes that can be toggled with the two buttons in the bottom center of the page. The first one (a Earth-globe-shaped button) is an intuitive Google-Earth like navigation while the second one (keyboard-shaped button) allows to use the keyboard (ASDWQZ keys) to navigate.
-- The measurement tools can be activated by pressing the toolbox button in the left-buttom part of the page. It allows to measure measure lengths, areas, volumes in 3-space, sections, etc.
-- The used colour range can be changes. The user can select different minimum and maximum height for the colouring.
+- Depending on the hardware used for the demo, set the quality setting accordingly. To change it press the setting button (the wheel in the left bottom of the page) and select one of the four quality modes. 
+- There are two navigation modes that can be toggled with the two buttons in the bottom center of the page. The first one (an Earth-shaped button) is an intuitive GoogleEarth-like navigation while the second one (keyboard-shaped button) allows to use the keyboard (ASDWQZ keys) to navigate.
+- The measurement tools can be activated by pressing the toolbox button in the left-bottom part of the page. It allows for measuring lengths, areas, and volumes in 3-space, sections, etc.
+- The used color range can be changed. The user can select different minimum and maximum height for the coloring.
 - The mini-map in the upper-right part of the page shows the 2D projection of the 3D perspective view overlapped with a 2D map.
-- The search box in the upper-left part of the page allows to type addresses and even use the device position to instanly visualize the position where the user is located.
-- Pressing the down-arrow button in the left-bottom of the page activate the point extraction tool. The user can select any area either in the 3D scene or the 2D mini-map and download the points contained in the selected area. The user needs to provide an email. When the point extraction job is finished the user will receive a email with the link where he can download the points. Note that depending on the size of the selected area, the full-detail points are not available for download, in such cases a lower density of points is provided.
+- The search box in the upper-left part of the page allows to type addresses and, on devices that have a GPS sensor, even use the device position to visualize the position where the user is located.
+- Pressing the down-arrow button in the left-bottom of the page activates the point extraction tool. The user can select any area either in the 3D scene or the 2D mini-map and download the points contained in the selected area. The user needs to provide an email address. When the point extraction job is finished, the user will receive an email with the link where he can download the points. Note that depending on the size of the selected area, the full-detail points are not available for download, in such cases a lower density of points is provided.
 - Notice different level of detail and tiling (you can enable visualization of the octree division under ``cog wheel``>>``Misc``>>``Bounding boxes``).
 
 ## Known quirks
@@ -38,7 +38,7 @@ Besides the [general remarks](/doc/demo-usage-general-remarks.md) about web demo
 
 Previous approaches required aggregating, destroying a lot of detail that could potentially be interesting, relevant, or even necessary to answer certain questions. Our approach enables inspection of points down to the highest level of detail.
 
-- A good example of what can be done thanks to the develop tool can be appreciated in the island of Terschelling. In this 3D visualization we can appreciate erroneous points in a straight line above 300 meters of ground (probably caused by the plane scanning itself). In derived aggregated datasets and visualizations these erroneous points were not detected, and what was worse, they were aggregated and this resulted on the island being "slightly higher" than reality. In the AHN2 3D web viewer these erroneous points could be very easily spotted and they were reported to the data owner. This demonstrated that having tools for managing and visualizing massive point clouds is essential. 
+- A good example of what can be done with the AHN2 viewer can be appreciated in the island of Terschelling. In this 3D visualization we can appreciate erroneous points in a straight line, approximately 300 meters above ground level (probably caused by the plane scanning itself). In derived aggregated datasets and visualizations these erroneous points were not detected, and what was worse, they were aggregated and this resulted in the island being slightly higher than it is in reality. In the AHN2 3D web viewer these erroneous points could be very easily spotted and they were reported to the data owner. This demonstrated that having tools for managing and visualizing massive point clouds is essential. 
 
 # Technologically interesting aspects
 
