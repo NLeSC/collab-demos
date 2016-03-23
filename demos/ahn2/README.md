@@ -44,7 +44,6 @@ Previous approaches required aggregating, destroying a lot of detail that could 
 
 - Massive-PotreeConverter
 - multi-resolution structure allows viewing point clouds on multiple platforms, including smartphones, tablets, smart TVs, as well as laptops and PCs
-- TODO
 
 # Further reading
 
