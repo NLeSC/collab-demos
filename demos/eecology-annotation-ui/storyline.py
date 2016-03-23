@@ -22,8 +22,8 @@ import time
 
 if __name__ == '__main__':
 
-    # switch to desktop number 4 (in zero-based indexing)
-    subprocess.call(['wmctrl', '-s', '4'])
+    # switch to desktop number 2 (in zero-based indexing)
+    subprocess.call(['wmctrl', '-s', '2'])
 
     # start demo in Google Chrome webbrowser
     subprocess.Popen(['google-chrome-stable', 'http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html'],
@@ -36,31 +36,31 @@ if __name__ == '__main__':
     time.sleep(15)
 
     # 'Tracker' dropdown:
-    pyautogui.moveTo(418,142)
+    pyautogui.moveTo(418, 142, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # Select '355'
-    pyautogui.moveTo(418,164)
+    pyautogui.moveTo(418, 164, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # 'From' date dropdown
-    pyautogui.moveTo(548,142)
+    pyautogui.moveTo(548, 142, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # Select '28'
-    pyautogui.moveTo(508,290)
+    pyautogui.moveTo(508, 290, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # 'From' time dropdown
-    pyautogui.moveTo(609,140)
+    pyautogui.moveTo(609, 140, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(1)
@@ -73,19 +73,19 @@ if __name__ == '__main__':
     time.sleep(2)
 
     # 'To' date dropdown
-    pyautogui.moveTo(761,142)
+    pyautogui.moveTo(761, 142, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # Select '28'
-    pyautogui.moveTo(717,290)
+    pyautogui.moveTo(717, 290, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # 'To' time dropdown
-    pyautogui.moveTo(850,140)
+    pyautogui.moveTo(850, 140, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(1)
@@ -98,39 +98,32 @@ if __name__ == '__main__':
     time.sleep(2)
 
     # 'Load tracker' button
-    pyautogui.moveTo(1020,140)
+    pyautogui.moveTo(1020, 140, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(10)
 
     # delete current annotations
-    pyautogui.moveTo(1695,797)
+    pyautogui.moveTo(1695, 797, 2.0)
     time.sleep(1)
-    for i in range(1,87):
+    for i in range(1, 87):
         pyautogui.click()
         time.sleep(0.1)
-    pyautogui.moveTo(1710,797)
+    pyautogui.moveTo(1710, 797, 2.0)
     time.sleep(1)
-    for i in range(1,19):
+    for i in range(1, 19):
         pyautogui.click()
         time.sleep(0.1)
 
     # go to 'configure class' button
-    pyautogui.moveTo(1443,752)
+    pyautogui.moveTo(1443, 752, 2.0)
     time.sleep(1)
     pyautogui.click()
     time.sleep(2)
 
     # delete class definitions
-    pyautogui.moveTo(1080,558)
+    pyautogui.moveTo(1080, 558, 2.0)
     time.sleep(1)
-    for i in range(1,8):
+    for i in range(1, 8):
         pyautogui.click()
         time.sleep(0.1)
-
-
-
-
-
-
-
