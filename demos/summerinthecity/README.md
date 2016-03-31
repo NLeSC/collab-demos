@@ -1,6 +1,6 @@
 # In short
 
-- **url:**  [http://jiskattema.github.io/summerinthecity/](http://jiskattema.github.io/summerinthecity/)
+- **url:**  [http://summerinthecity.github.io/heatwavemap/](http://summerinthecity.github.io/heatwavemap/)
 - **screencast**: [https://vimeo.com/154200273](https://vimeo.com/154200273)
 - **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
 - **screenshot**:
@@ -15,7 +15,7 @@ The forecasting of thermal human comfort requires simulations on very high spati
 
 # Demo usage
 
-[The demo](http://jiskattema.github.io/summerinthecity/) is a publicly accessible web demo. That means you should be able to access it from any computer using your browser as long as you have a working internet connection.
+[The demo](http://summerinthecity.github.io/heatwavemap/) is a publicly accessible web demo. That means you should be able to access it from any computer using your browser as long as you have a working internet connection.
 
 The demo consists of an interactive map showing the average deviation from a traditional weather forecast, based on data from the summer of 2006. This deviation is known as the _urban heat island_ (UHI) effect. It can be as much as 5 degrees for warm days (see e.g. the inner cities of Amsterdam, Enschede, Groningen, Maastricht). The map can be used in combination with a traditional temperature forecast to get an estimation of the actual temperature in a neighborhood: just take the traditional temperature forecast and add the UHI50P for an average day, and the UHI95P for a heatwave. 
 
@@ -52,7 +52,7 @@ _High-resolution modeling requires a lot of compute power_
 - Project [website](https://www.esciencecenter.nl/project/summer-in-the-city) on esciencecenter.nl
 - Project [video](https://vimeo.com/109430452) on vimeo.com
 - A screencast [video](https://vimeo.com/154200273) of the demo on vimeo.com
-- Browse the code on github.com [one](https://github.com/jiskattema/wrf-wur.git), [two](https://github.com/jiskattema/wps-wur.git)
+- Browse [the code](https://github.com/summerinthecity) on github.com
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FSummerInTheCity&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
 - Follow-up project [ERA-URBAN](https://www.esciencecenter.nl/project/era-urban)
 - [Article](http://www.parool.nl/parool/nl/8/WEER/article/detail/3673212/2014/06/16/Universiteit-zet-30-weerstations-in-Amsterdam.dhtml)  from Amsterdam-based newspaper 'Het Parool' (July 16, 2014)
