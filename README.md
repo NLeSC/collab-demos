@@ -1,6 +1,10 @@
 This repository collects knowledge about the demos in the Collaboratorium.
 
-The Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to [the sharepoint IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) (requires login). A Collaboratorium howto by SURFsara is available [here](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf) or [here](/doc/collab_manual.pdf). You can find the Collaboratorium's agenda [here](https://userinfo.surfsara.nl/systems/collaboratorium/agenda). Reservations can be made by sending an email to [collaboratorium@surfsara.nl](mailto:collaboratorium@surfsara.nl).
+The Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to [the sharepoint IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) (requires login). 
+
+- A Collaboratorium howto by SURFsara is available [here](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf) or [here](/doc/collab_manual.pdf); 
+- You can find the Collaboratorium's agenda [here](https://userinfo.surfsara.nl/systems/collaboratorium/agenda). Reservations can be made by sending an email to [collaboratorium@surfsara.nl](mailto:collaboratorium@surfsara.nl);
+- Instructions on setting up a Skype meeting can be found [here (TODO)](/doc/setting-up-a-skype-meeting.md);
 
 Overview of Collab demos:
 
