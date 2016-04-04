@@ -7,10 +7,10 @@
    - Database: (speed)
    - Network: (speed, interference of other devices when on wireless)
 - **screencast**: Not available
-- **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
+- **contact person**: [Jurriaan H. Spaaks](https://www.esciencecenter.nl/profile/drs-jurriaan-spaaks)
 - **screenshot**: 
  
-![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
+![screenshot](/demos/metrochart/screencapture-demo-metrochart.png "metrochart demo screenshot")
 
 # General idea of the project
 
