@@ -33,7 +33,7 @@ The point clouds resulting from stereophotogrammetry were then combined with the
 
 # Known quirks
 
-User controls are not what you expect (issue [#11](/../../issues/11)) and vary with the mode of viewing (of which there are 4):
+User controls are not what you expect and vary with the mode of viewing (of which there are 4):
 
 1. On rails (cowboy icon)
 2. Free fly (helicopter icon)
@@ -46,7 +46,7 @@ Also the demo sometimes crashes unexpectedly. It is currently unknown what cause
 
 The demo uses **IP-whitelisting** to get the data from the server (which is located in Germany). In practice, this means that the webdemo will work as long as you are showing the demo on a computer anywhere in The Netherlands eScience Center including the Collaboratorium (as long as you use a wired network connection).
 
-See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+Information on **known quirks** is collected [here](/../../issues/11). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Scientifically interesting aspects
