@@ -2,7 +2,7 @@
 # In short
 
 - **url**: [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)
-- **screencast**: ~~[https://vimeo.com/154200270](https://vimeo.com/154200270)~~
+- **screencast**: Not available
 - **contact person**: [Niels Drost](https://www.esciencecenter.nl/profile/dr.-niels-drost)
 - **screenshot**: 
  
