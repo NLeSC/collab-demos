@@ -13,12 +13,7 @@
 
 # General idea of the project
 
-- liquid chromatography/mass spectrometry
-    - In chemistry, if you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS. The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound.
-- what are MS'es good at
-- personalized medicine
-- TODO
-
+In chemistry, when you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS (liquid chromatography/mass spectrometry). The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound. 
 
 # Demo usage
 
