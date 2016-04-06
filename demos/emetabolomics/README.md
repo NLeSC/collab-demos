@@ -1,11 +1,11 @@
 # In short
 
 - **url**: [http://www.emetabolomics.org/results_tea_urine.html](http://www.emetabolomics.org/results_tea_urine.html)
-    - IP-whitelisting: TODO
-    - Requires login: TODO
-    - Works better with GPU: (speed, memory) TODO
+    - IP-whitelisting: No
+    - Requires login: No
+    - Works better with GPU: N/A
     - Database: (speed) TODO
-    - Network: (speed, interference of other devices when on wireless) TODO
+    - Network: Transferring data is not a bottleneck for this demo
 - **screencast**: Not available
 - **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
