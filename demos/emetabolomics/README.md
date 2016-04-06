@@ -23,8 +23,6 @@
 
 TODO
 
-See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
-
 ## Known quirks
 
 TODO
@@ -35,7 +33,7 @@ TODO
 - Database: (speed)
 - Network: (speed, interference of other devices when on wireless)
 
-
+**Known quirks** are collected [here](https://github.com/NLeSC/collab-demos/issues/64). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 # Technologically interesting aspects
 
