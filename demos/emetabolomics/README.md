@@ -51,7 +51,6 @@ TODO
 - A screencast [video] of the demo on vimeo.com
 - Browse [the code](https://github.com/NLeSC/MAGMa) on github.com
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeMetabolomics&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
-- Follow-up project [THE_PROJECT]
 - Liquid chromatography/mass spectrometry on [wikipedia](https://en.wikipedia.org/wiki/Liquid_chromatography%E2%80%93mass_spectrometry)
 - Introduction to mass spectrometry [playlist](https://www.youtube.com/watch?v=rBymrFzcaPM&list=PL43814409BA85D84C)
 
