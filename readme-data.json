@@ -1,0 +1,106 @@
+{
+    "_comment": "This file is read by src/makereadme.py which generates the repository-level README.md",
+    "header-paragraphs": "This repository collects knowledge about the demos in the Collaboratorium.\n\nThe Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to [the sharepoint IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) (requires login).\n\n- A Collaboratorium howto by SURFsara is available [here](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf) or [here](/doc/collab_manual.pdf);\n- You can find the Collaboratorium's agenda [here](https://userinfo.surfsara.nl/systems/collaboratorium/agenda). Reservations can be made by sending an email to [collaboratorium@surfsara.nl](mailto:collaboratorium@surfsara.nl);\n- Instructions on setting up a Skype meeting can be found [here](/doc/setting-up-a-skype-meeting.md);\n\nOverview of Collab demos:\n\n",
+    "data": [
+        {
+            "name": "eecology-annotation-ui",
+            "urls": {
+                "demo": "http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html",
+                "document": "/blob/master/demos/eecology-annotation-ui/README.md",
+                "screencast": "https://vimeo.com/158029473",
+                "code": "https://github.com/NLeSC/eEcology-Annotation-UI",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeEcology&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "ahn2",
+            "urls": {
+                "demo": "http://ahn2.pointclouds.nl/",
+                "document": "/blob/master/demos/ahn2/README.md",
+                "screencast": "https://vimeo.com/154200270",
+                "code": "https://github.com/NLeSC/ahn-pointcloud-viewer",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FClosed%2FMassive%20point%20cloud%20for%20eSciences&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "emetabolomics",
+            "urls": {
+                "demo": "http://www.emetabolomics.org/magma",
+                "document": "/blob/master/demos/emetabolomics/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/MAGMa",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeMetabolomics&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "esalsa",
+            "urls": {
+                "demo": "",
+                "document": "/blob/master/demos/esalsa/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/?utf8=%E2%9C%93&query=esalsa",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeSalsa&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "ewatercycle",
+            "urls": {
+                "demo": "http://forecast.ewatercycle.org/",
+                "document": "/blob/master/demos/ewatercycle/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/?utf8=%E2%9C%93&query=ewatercycle",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeWaterCycle&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "metrochart",
+            "urls": {
+                "demo": "http://jspaaks.github.io/metrochart/demo/",
+                "document": "/blob/master/demos/metrochart/README.md",
+                "screencast": "",
+                "code": "https://github.com/jspaaks/metrochart",
+                "presentation": ""
+            }
+        },
+        {
+            "name": "summerinthecity",
+            "urls": {
+                "demo": "http://summerinthecity.github.io/heatwavemap/",
+                "document": "/blob/master/demos/summerinthecity/README.md",
+                "screencast": "https://vimeo.com/154200273",
+                "code": "https://github.com/summerinthecity",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FSummerInTheCity&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "uncertainty-visualization",
+            "urls": {
+                "demo": "https://nlesc.github.io/UncertaintyVisualization",
+                "document": "/blob/master/demos/uncertainty-visualization/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/UncertaintyVisualization",
+                "presentation": ""
+            }
+        },
+        {
+            "name": "viaappia",
+            "urls": {
+                "demo": "http://viaappia.esciencecenter.nl",
+                "document": "/blob/master/demos/viaappia/README.md",
+                "screencast": "https://youtu.be/I3DLXSrRiyk",
+                "code": "/demos/viaappia/repositories.md",
+                "presentation": "https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FClosed%2FMapping%20the%20Via%20Appia%20in%203D%20-%20Patty&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View={2CC9F224-02CB-49B5-9DBB-C97AE29C8572}"
+            }
+        },
+        {
+            "name": "wetenschapsagenda",
+            "urls": {
+                "demo": "http://wetenschapsagenda.esciencecenter.nl",
+                "document": "/blob/master/demos/wetenschapsagenda/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/wetenschapsagenda",
+                "presentation": ""
+            }
+        }
+    ]
+}
