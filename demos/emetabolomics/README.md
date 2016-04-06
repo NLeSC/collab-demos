@@ -1,6 +1,6 @@
 # In short
 
-- **url**: [http://www.emetabolomics.org/magma](http://www.emetabolomics.org/magma)
+- **url**: [http://www.emetabolomics.org/results_tea_urine.html](http://www.emetabolomics.org/results_tea_urine.html)
     - IP-whitelisting: TODO
     - Requires login: TODO
     - Works better with GPU: (speed, memory) TODO
@@ -8,13 +8,13 @@
     - Network: (speed, interference of other devices when on wireless) TODO
 - **screencast**: Not available
 - **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
-- **screenshot**:  
+- **screenshot**:
 ![screenshot](/demos/emetabolomics/screencapture-demo-emetabolomics.png "emetabolomics demo screenshot")
 
 # General idea of the project
 
 - liquid chromatography/mass spectrometry
-    - In chemistry, if you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS. The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound.  
+    - In chemistry, if you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS. The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound.
 - what are MS'es good at
 - personalized medicine
 - TODO
