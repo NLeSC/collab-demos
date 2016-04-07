@@ -12,12 +12,15 @@ So for example, if we introduce methane (CH4) into the apparatus, the mass spect
 
 Note that the horizontal axis is labeled _M/z_, the mass-over-charge ratio. This is because it's not guaranteed that the molecule has unit charge (although usually it does). The vertical axis is a measure of how abundant a given mass is. 
 
-It's likely that the mass spectrum will have multiple peaks. This is due to the fact that the molecule may fall apart into so-called _fragments_. For example, a methane molecule can fragment into into one CH2 molecule and one H2 molecule. If this happens, the mass spectrum will show two additional peaks:
+It's likely that the mass spectrum will have multiple peaks. This is due to the fact that the molecule may fall apart into so-called _fragments_. For example, a methane molecule can fragment into one CH2 molecule and one H2 molecule. If this happens, the mass spectrum will show two additional peaks:
 
 ![mass-spectrum-ch4-ch2-h2.png](mass-spectrum-ch4-ch2-h2.png)
 
 The fragmentation of CH4 into CH2 and H2 occurs about 1 in 5 times, hence the relative height of the peaks at 2.02 and 14.03 are about 20% of the height of the peak at 16.04.
 
+If other fragments are formed then there will be additional peaks in the mass spectrum. Also, the atoms that make up individual molecules may occur as different isotopes, and will therefore have slightly different mass. Each isotope configuration will have its own peak in the mass spectrum.
+
+As you are probably starting to see, the comnbinatorics get out of hand pretty quickly but as long as you can assume that the initial sample consists of just one molecule, most of the time you can figure out what the fragments are.
 
 
 
