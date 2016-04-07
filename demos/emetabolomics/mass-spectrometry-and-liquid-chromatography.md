@@ -1,4 +1,4 @@
-_How liquid chromatography and mass spectrometry can help help understand molecular structure_
+_How liquid chromatography and mass spectrometry can help understand molecular structure_
 
 Liquid chromatography and mass spectrometry techniques are useful in identifying what molecules are present in a given sample. The process by which this happens may seem a bit complex if you're not familiar with the subject, so for the sake of the explanation, let's simplify the problem a bit by focusing solely on the mass spectrometry first.
 
@@ -10,7 +10,11 @@ So for example, if we introduce methane (CH4) into the apparatus, the mass spect
 
 ![mass-spectrum-ch4.png](mass-spectrum-ch4.png)
 
-Note that the horizontal axis is labeled _M/z_, the mass-over-charge ratio. This is because it's not guaranteed that the molecule has unit charge (although usually it does). The vertical axis is a measure of how abundant a given mass is.
+Note that the horizontal axis is labeled _M/z_, the mass-over-charge ratio. This is because it's not guaranteed that the molecule has unit charge (although usually it does). The vertical axis is a measure of how abundant a given mass is. 
+
+It's likely that the mass spectrum will have multiple peaks. This is due to the fact that the molecule may fall apart into so-called _fragments_. For example, a methane molecule can fragment into into 1 CH2 molecule and one H2 molecule. If this happens, the mass spectrum will show two additional peaks:
+
+![mass-spectrum-ch4-ch2-h2.png](mass-spectrum-ch4-ch2-h2.png)
 
 
 
