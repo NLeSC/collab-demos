@@ -20,11 +20,14 @@ The fragmentation of CH4 into CH2 and H2 occurs about 1 in 5 times, hence the re
 
 If other fragments are formed then there will be additional peaks in the mass spectrum. Also, the atoms that make up individual molecules may occur as different isotopes, and will therefore have slightly different mass. Each isotope configuration will have its own peak in the mass spectrum.
 
-As you are probably starting to see, the comnbinatorics get out of hand pretty quickly but as long as you can assume that the initial sample consists of just one molecule, most of the time you can figure out what the fragments are.
+The full mass spectrum of methane looks like this:
+
+TODO
+
+As you are probably starting to see, the combinatorics get out of hand pretty quickly but as long as you can assume that the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents.
 
 
 
-- MS
 - why LC before MS
 - (LC/MS)^n
  
