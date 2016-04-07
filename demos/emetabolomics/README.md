@@ -17,6 +17,8 @@ In chemistry, when you have a complex mixture of unknown composition, you can pu
 
 # Demo usage
 
+You're probably going to need to explain a little bit about LC/MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
+
 TODO
 
 ## Known quirks
