@@ -26,8 +26,9 @@ TODO
 
 So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to use mass spectrometry in combination with a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need chromatography. 
 
+_Separating a complex mixture by chromatography_
 
+Chromatography can be liquid chromatography (_LC_) or gas chromatography (_GC_), but the principle is much the same: the complex mixture is diluted by a _solvent_, and then the resulting mixture is introduced into a so-called _column_. The column is basically a small tube filled with _packing material_. The purpose of the packing material is to slow down certain molecules more than others, depending on the molecules structure, size, and charge. This way, each type of molecule will be associated with a characteristic travel time through the column. 
 
-- why LC before MS
-- (LC/MS)^n
- 
+By placing the LC before the MS, we are able to introduce groups of very similar molecules into the mass spectrometer, thereby greatly simplifying the MS analysis later on.
+
