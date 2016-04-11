@@ -24,7 +24,7 @@ The full mass spectrum of methane looks like this:
 
 TODO
 
-As you are probably starting to see, the combinatorics get out of hand pretty quickly but as long as you can assume that the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents.
+So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to use mass spectrometry in combination with a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need chromatography. 
 
 
 
