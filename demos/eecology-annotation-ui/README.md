@@ -1,6 +1,6 @@
 # In short
 
-- **url**: [http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html](http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html)
+- **url**: [http://nlesc.github.io/eEcology-Annotation-UI/demo/demo-na.html](http://nlesc.github.io/eEcology-Annotation-UI/demo/demo-na.html)
    - IP-whitelisting: No. The gull data is publicly available
    - GPU: Not required, but it does help
    - Login required: No
