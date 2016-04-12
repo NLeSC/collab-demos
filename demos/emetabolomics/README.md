@@ -35,16 +35,16 @@ TODO
 
 # Technologically interesting aspects
 
-- The link between back-end algorithm and front-end interface is completely based on an sqlite database file containing all the results
+- The link between back-end algorithm and front-end interface is completely based on an sqlite database file containing all the results.
 - Both the computational algorithm and the webinterface are able to deal with nested multilevel mass spectrometry data. Hierarchical trees of fragments are linked to trees of substructures of candidate molecules.
-- Both the computational algorithm and the webinterface deal with many to many relationships: candidates may match to multiple precursor ions and precursor ion may match to multiple candidates
-- The user friendly and interactive interface allows to browse through this complex data with many relationships 
+- Both the computational algorithm and the webinterface deal with many to many relationships: candidates may match to multiple precursor ions and precursor ion may match to multiple candidates.
+- The user friendly and interactive interface allows to browse through this complex data with many relationships.
 
 # Scientifically interesting aspects
 
-- MAGMa combines metabolite prediction with automatic screening in/annotation of LC-MSn metabolomics datasets
-- It allows mass spectrometry experts to interpret unknown molecules which helps to gain more biological insight from complex samples than otherwise would be possible
-- MAGMa performed very well in the Critical Assessment of Small Molecule Identification (CASMI) contest. It was announced best automatic method in CASMI 2013 and winner of category 1 in CASMI 2014
+- MAGMa combines metabolite prediction with automatic screening in/annotation of LC-MSn metabolomics datasets.
+- It allows mass spectrometry experts to interpret unknown molecules which helps to gain more biological insight from complex samples than otherwise would be possible.
+- MAGMa performed very well in the Critical Assessment of Small Molecule Identification (CASMI) contest. It was announced best automatic method in [CASMI 2013](http://dx.doi.org/10.5702/massspectrometry.S0039) and winner of category 1 in [CASMI 2014](http://www.casmi-contest.org/2014/results.shtml)
 
 # Further reading
 
