@@ -17,10 +17,11 @@ In analytical chemistry, when you have a complex mixture of unknown composition,
 
 # Demo usage
 
-You're probably going to need to explain a little bit about LC/MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
+You're probably going to need to explain a little bit about LC-MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
 
 Suggested story line:
-- Optional: show the [input page](http://www.emetabolomics.org/magma)
+- show a picture of an LC-MS. It generates data. 
+- show the [input page](http://www.emetabolomics.org/magma)
   - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
 - Explain that one of the application areas of metabolomics is nutrition and health
   - We use an LC-MS/MS measurement of green tea as an example.
@@ -31,6 +32,7 @@ Suggested story line:
 - Go to: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
   - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time.
   - Left top panel shows candidate molecules automatically retrieved from the Human Metabolite Database [HMDB](http://www.hmdb.ca).
+      - explain what the purpose of the database is
   - The interface helps to assign the correct molecules to the detected molecules based on automatic matching of calculated molecule fragments (top right) to measured fragment peaks (bottom right).
   - Example: MAGMa has automatically detected caffeine as potential constituent of green tea (top molecule in top left panel).
   - Click on cafffeine: green line in chromatogram now shows where caffeine is eluting...
@@ -47,15 +49,7 @@ Suggested story line:
 
 ## Known quirks
 
-TODO
-
-- IP-whitelisting:
-- Requires login:
-- Works better with GPU: (speed, memory)
-- Database: (speed)
-- Network: (speed, interference of other devices when on wireless)
-
-**Known quirks** are collected [here](https://github.com/NLeSC/collab-demos/issues/64). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+Known quirks are collected [here](https://github.com/NLeSC/collab-demos/issues/64). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 # Technologically interesting aspects
 
@@ -74,12 +68,12 @@ TODO
 
 - Project [website](https://www.esciencecenter.nl/project/chemical-informatics-for-metabolite-identification-and-biochemical-network) on esciencecenter.nl
 - Project [video](https://vimeo.com/109444671) on vimeo.com
-- A screencast [video] of the demo on vimeo.com
+- TODO: A screencast [video] of the demo on vimeo.com
 - Browse [the code](https://github.com/NLeSC/MAGMa) on github.com
 - Pitch presentations on [sharepoint](https://nlesc.sharepoint.com/Shared%20Documents/Forms/AllItems.aspx?RootFolder=%2FShared%20Documents%2FNLeSC%20Project%20Presentations%2FCurrent%2FeMetabolomics&FolderCTID=0x0120004EB0DBA245A10041AA401E78745EB1B1&View=%7B2CC9F224-02CB-49B5-9DBB-C97AE29C8572%7D)
 - Liquid chromatography/mass spectrometry on [wikipedia](https://en.wikipedia.org/wiki/Liquid_chromatography%E2%80%93mass_spectrometry)
-- Introduction to mass spectrometry [playlist](https://www.youtube.com/watch?v=rBymrFzcaPM&list=PL43814409BA85D84C)
-
+- Introduction to mass spectrometry video [playlist](https://www.youtube.com/watch?v=rBymrFzcaPM&list=PL43814409BA85D84C) on YouTube
+- UCDavis ChemWiki [article](http://chemwiki.ucdavis.edu/Core/Analytical_Chemistry/Instrumental_Analysis/Mass_Spectrometry/How_the_Mass_Spectrometer_Works) with some more details about the inner workings of mass spectrometers
 
 
 
