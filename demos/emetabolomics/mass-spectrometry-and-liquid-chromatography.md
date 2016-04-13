@@ -20,7 +20,7 @@ The mass spectrum for most compounds has multiple peaks. One of the reasons is t
 - Now we are left with just the peak at mass 22. It's not clear how the other peaks can be combined to yield 22, e.g. 12 + 16 &ne; 22. However, keeping in mind that the horizontal axis says M/z, not just M, it becomes clear that the mass at 22 is simply a molecular ion with a double charge.
 
 
-So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to use mass spectrometry in combination with a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need _chromatography_. 
+So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to effectively apply mass spectrometry to samples that are a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need _chromatography_. 
 
 _Separating a complex mixture by chromatography_
 
