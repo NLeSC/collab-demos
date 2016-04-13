@@ -6,7 +6,7 @@ Mass spectrometers aim to measure the mass of individual molecules. Because meas
 
 ![mass-spectrometer.png](mass-spectrometer.png)
 
-So for example, here's an example of a mass spectrum:
+Here's an example of what a mass spectrum looks like:
 
 ![mass-spectrum-co2.png](mass-spectrum-co2.png)
 
