@@ -28,8 +28,6 @@ Chromatography can be _liquid chromatography_ (_LC_) or _gas chromatography_ (_G
 
 ![chromatography-idealized.png](chromatography-idealized.png)
 
-By placing the LC before the MS, individual, or at least much smaller numbers of, molecules are simultaneously introduced into the mass spectrometer, which greatly simplifies the MS analysis later on.
-
 By placing the LC before the MS, molecules are introduced into the mass spectrometer one at a time (or at least in really small numbers at a time), which greatly simplifies the MS analysis later on.
 
 
