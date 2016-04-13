@@ -20,7 +20,7 @@ In analytical chemistry, when you have a complex mixture of unknown composition,
 You're probably going to need to explain a little bit about LC-MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
 
 Suggested story line:
-- show a picture of an LC/MS. It generates data. 
+- show a picture of an LC-MS. It generates data. 
 - show the [input page](http://www.emetabolomics.org/magma)
   - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
 - Explain that one of the application areas of metabolomics is nutrition and health
@@ -42,15 +42,7 @@ Suggested story line:
 
 ## Known quirks
 
-TODO
-
-- IP-whitelisting:
-- Requires login:
-- Works better with GPU: (speed, memory)
-- Database: (speed)
-- Network: (speed, interference of other devices when on wireless)
-
-**Known quirks** are collected [here](https://github.com/NLeSC/collab-demos/issues/64). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+Known quirks are collected [here](https://github.com/NLeSC/collab-demos/issues/64). See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 # Technologically interesting aspects
 
