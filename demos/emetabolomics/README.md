@@ -32,6 +32,7 @@ Suggested story line:
 - Go to: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
   - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time
   - Left top panel shows candidate molecules automatically retrieved from the Human Metabolite Database [HMDB](http://www.hmdb.ca).
+      - explain what the purpose of the database is
   - The interface helps to assign the correct molecules to the detected molecules based on automatic matching of calculated molecule fragments (top right) to measured fragment peaks (bottom right).
   - Example: MAGMa has automatically detected caffeine as potential constituent of green tea (top molecule in top left panel).
   - Click on cafffeine: green line in chromatogram now shows where caffeine is eluting...
