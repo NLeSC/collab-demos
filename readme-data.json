@@ -25,7 +25,7 @@
         {
             "name": "emetabolomics",
             "urls": {
-                "demo": "http://www.emetabolomics.org/results_tea_urine.html",
+                "demo": "http://www.emetabolomics.org/green_tea_hmdb.html",
                 "document": "/blob/master/demos/emetabolomics/README.md",
                 "screencast": "",
                 "code": "https://github.com/NLeSC/MAGMa",
