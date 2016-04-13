@@ -24,9 +24,12 @@ So when the initial sample consists of just one type of molecule, most of the ti
 
 _Separating a complex mixture by chromatography_
 
-Chromatography can be _liquid chromatography_ (_LC_) or _gas chromatography_ (_GC_), but the principle is much the same: the complex mixture is diluted by a _solvent_, and then the resulting mixture is introduced into a so-called _column_. The column is basically a small tube filled with _packing material_. The purpose of the packing material is to slow down certain molecules more than others, depending on the molecule's structure, size, and charge. This way, each type of molecule will be associated with a characteristic travel time through the column (the so-called _retention time_): 
+Chromatography can be _liquid chromatography_ (_LC_) or _gas chromatography_ (_GC_), but the principle is much the same: the complex mixture is diluted by a _solvent_, and then the resulting mixture is introduced into a so-called _column_. The column is basically a small tube filled with _packing material_. The purpose of the packing material is to slow down certain molecules more than others. This way, each type of molecule will be associated with a characteristic travel time through the column (the so-called _retention time_): 
 
 ![chromatography-idealized.png](chromatography-idealized.png)
 
 By placing the LC before the MS, individual, or at least much smaller numbers of, molecules are simultaneously introduced into the mass spectrometer, which greatly simplifies the MS analysis later on.
+
+By placing the LC before the MS, molecules are introduced into the mass spectrometer one at a time (or at least in really small numbers at a time), which greatly simplifies the MS analysis later on.
+
 
