@@ -18,9 +18,9 @@ It's likely that the mass spectrum will have multiple peaks. One of the reasons 
 
 If other fragments are formed then there will be additional peaks in the mass spectrum. Also, the atoms may occur as different isotopes, which have slightly different mass. Therefore each molecule (or fragment) usually occurs as multiple peaks in the mass spectrum.
 
-The full mass spectrum of methane looks like this:
+The full mass spectrum of carbon dioxide looks like this:
 
-TODO
+![mass-spectrum-co2.png](mass-spectrum-co2.png)
 
 So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to use mass spectrometry in combination with a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need _chromatography_. 
 
