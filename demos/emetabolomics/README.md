@@ -17,7 +17,7 @@ In analytical chemistry, when you have a complex mixture of unknown composition,
 
 # Demo usage
 
-You're probably going to need to explain a little bit about LC/MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
+You're probably going to need to explain a little bit about LC-MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
 
 Suggested story line:
 - show a picture of an LC/MS. It generates data. 
