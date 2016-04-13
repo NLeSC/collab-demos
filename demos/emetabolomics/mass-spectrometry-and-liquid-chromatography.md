@@ -1,6 +1,6 @@
 _How liquid chromatography and mass spectrometry can help understand molecular structure_
 
-Liquid chromatography (_LC_) and mass spectrometry (_MS_) techniques are useful in identifying what molecules are present in a given sample. Let's focus on the mass spectrometry first.
+Liquid chromatography (_LC_) and mass spectrometry (_MS_) techniques are useful in identifying what molecules are present in a given sample. Let's focus on mass spectrometry first.
 
 Mass spectrometers aim to measure the mass of individual molecules. Because measuring the mass of something so small is diffucult, mass spectrometers employ a neat trick: instead of measuring the mass directly, they first give the molecule an electric charge (so-called _ionization_) and subsequently send it through a magnetic field. Because the molecule is charged, it will experience a force that changes its trajectory. Assuming equal charge (e.g. electron unit), the resulting trajectory depends on the mass of the molecule. There are different designs of MS instruments. In the setup shown below a lighter molecule's trajectory will be more curved than a heavier molecule's trajectory. When the molecule hits the _detector_ at the end of its trajectory, a lighter molecule will hit near the bottom of the detector, whereas a heavier molecule will hit nearer the top. This way, you can now use position along the detector surface as a measure of the molecular mass.
 
