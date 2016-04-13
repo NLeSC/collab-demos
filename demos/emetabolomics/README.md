@@ -21,7 +21,7 @@ You're probably going to need to explain a little bit about LC/MS'es. Read up on
 
 Suggested story line:
 - show a picture of an LC/MS. It generates data. 
-- ~~Optional: ~~show the [input page](http://www.emetabolomics.org/magma)
+- show the [input page](http://www.emetabolomics.org/magma)
   - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
 - Explain that one of the application areas of metabolomics is nutrition and health
   - We use an LC-MS/MS measurement of green tea as an example
