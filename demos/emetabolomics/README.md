@@ -1,6 +1,6 @@
 # In short
 
-- **url**: [http://www.emetabolomics.org/results_tea_urine.html](http://www.emetabolomics.org/results_tea_urine.html)
+- **url**: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
     - IP-whitelisting: No
     - Requires login: No
     - Works better with GPU: N/A
@@ -13,13 +13,30 @@
 
 # General idea of the project
 
-In chemistry, when you have a complex mixture of unknown composition, you can put a sample of it through an LC/MS (liquid chromatography/mass spectrometry). The LC part of the LC/MS separates the mixture into its constituent compounds/molecules, while the MS part subsequently measures the mass of each compound. 
+In analytical chemistry, when you have a complex mixture of unknown composition, you can put a sample of it through an LC-MS (liquid chromatography - mass spectrometry) instrument. Liquid chromatography separates the compounds/molecules that are present in the mixture, eluting them consecutively from a separation column. Mass spectrometry subsequently measures the mass and optionally (in case of LC-MS/MS or LC-MSn) the fragmentation characteristics of each compound. 
 
 # Demo usage
 
 You're probably going to need to explain a little bit about LC/MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
 
-TODO
+Suggested story line:
+- Optional: show the [input page](http://www.emetabolomics.org/magma)
+  - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
+- Explain that one of the application areas of metabolomics is nutrition and health
+  - We use an LC-MS/MS measurement of green tea as an example
+  - Green tea is claimed to be healthy, some evidence exists, but:
+  - Actually proving and understanding the healthy effect of green tea is a challenge
+  - Green tea is complex mixture of biomolecules, which may have different effects in different individuals
+  - First challenge is to know what is actually in green tea ....
+- Go to: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
+  - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time
+  - Left top panel shows candidate molecules automatically retrieved from the Human Metabolite Database [HMDB](http://www.hmdb.ca).
+  - The interface helps to assign the correct molecules to the detected molecules based on automatic matching of calculated molecule fragments (top right) to measured fragment peaks (bottom right).
+  - Example: MAGMa has automatically detected caffeine as potential constituent of green tea (top molecule in top left panel).
+  - Click on cafffeine: green line in chromatogram now shows where caffeine is eluting...
+  - Click on green triangle near retention time 16 min.: the right panels now show the corresponding mass spectra (bottom) and the molecular fragments calculated by the MAGMa algorithm
+  - In this case 3 different candidate molecules (top left) are possible masses, but: MAGMa give the best score (3rd column) / ranking to the correct cafffeine molecule.
+  - Bottom line: all calculated information by MAGMa in the top two panels help experts to quickly interpret the complex data (shown in the bottom panels).
 
 ## Known quirks
 
