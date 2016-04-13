@@ -6,21 +6,19 @@ Mass spectrometers aim to measure the mass of individual molecules. Because meas
 
 ![mass-spectrometer.png](mass-spectrometer.png)
 
-So for example, if we introduce methane (CH4) into the apparatus, the mass spectrum will show a peak at a mass of about 16.03 (because the carbon atomic mass is 12.0 and the hydrogen mass is 1.008):
-
-![mass-spectrum-ch4.png](mass-spectrum-ch4.png)
-
-Note that the horizontal axis is labeled _M/z_, the mass-over-charge ratio. This is because it's not guaranteed that the molecule has unit charge (it depends on the experimental setup). The vertical axis is an indication (but not absolute measure) of how abundant a given mass is. 
-
-It's likely that the mass spectrum will have multiple peaks. One of the reasons is that the molecule may fall apart into so-called _fragments_. For example, a methane molecule can fragment into one CH2 molecule and one H2 molecule. If this happens, the mass spectrum will show two additional peaks:
-
-![mass-spectrum-ch4-ch2-h2.png](mass-spectrum-ch4-ch2-h2.png)
-
-If other fragments are formed then there will be additional peaks in the mass spectrum. Also, the atoms may occur as different isotopes, which have slightly different mass. Therefore each molecule (or fragment) usually occurs as multiple peaks in the mass spectrum.
-
-The full mass spectrum of carbon dioxide looks like this:
+So for example, here's an example of a mass spectrum:
 
 ![mass-spectrum-co2.png](mass-spectrum-co2.png)
+
+Note that the horizontal axis is labeled _M/z_, the mass-over-charge ratio. This is because it's not guaranteed that the molecule has unit charge (it depends on the experimental setup). The vertical axis is an indication (but not an absolute measure) of how abundant a given mass is. 
+
+The mass spectrum for most compounds has multiple peaks. One of the reasons is that the injected compound may fall apart into so-called _fragments_. Also, a given fragment's constituent atoms may occur as different isotopes, which have slightly different mass. For the spectrum above, here's the explanation of each peak:
+
+- near the right side of the plot, we have a group of mass 44 and much less abundant mass of 45. Since it is the heaviest mass in the sample, it's likely that this group represents the _molecular ion peak_: i.e the injected compound after ionization. However, at this stage we don't know what the mass represents yet.
+- the two smallest masses in the spectrum are 12 and 16, suggesting a carbon atom and an oxygen atom, respectively.
+- mass-28 likely represents CO, because we just identified mass-12 as C and mass-16 as O.  Furthermore, the molecular ion (mass-44) minus mass-28 (CO) yields a mass of 16 (O). It is therefor likely that the molecular ion represents CO2, carbon dioxide.
+- Now we are left with just the peak at mass 22. It's not clear how the other peaks can be combined to yield 22, e.g. 12 + 16 &ne; 22. However, keeping in mind that the horizontal axis says M/z, not just M, it becomes clear that the mass at 22 is simply a molecular ion with a double charge.
+
 
 So when the initial sample consists of just one type of molecule, most of the time you can figure out what fragment each peak represents, but when we're dealing with things like urine or blood samples, there are simply too many peaks to make any sense of the mass spectrum. So in order to use mass spectrometry in combination with a complex mixture of molecules, we need a way to separate the complex mixture into groups of molecules, i.e. we need _chromatography_. 
 
