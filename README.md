@@ -1,9 +1,10 @@
 This repository collects knowledge about the demos in the Collaboratorium.
 
-The Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to [the sharepoint IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) (requires login).
+The Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to [Office IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) on sharepoint (requires login).
 
+- For physical access to the Collab, ask Maarten for his key. Or, check the key locker next to Karima for a shared key.
 - A Collaboratorium howto by SURFsara is available [here](https://www.surf.nl/binaries/content/assets/surf/en/2015/collab_manual.pdf) or [here](/doc/collab_manual.pdf);
-- You can find the Collaboratorium's agenda [here](https://userinfo.surfsara.nl/systems/collaboratorium/agenda). Reservations can be made by sending an email to [collaboratorium@surfsara.nl](mailto:collaboratorium@surfsara.nl);
+- You can find the Collaboratorium's agenda [here](https://userinfo.surfsara.nl/systems/collaboratorium/agenda). Reservations can be made by sending an email to [collaboratorium@surfsara.nl](mailto:collaboratorium@surfsara.nl);  [this document](/doc/add-collab-calendar-to-outlook.md) describes how to add the Collab agenda to Outlook.
 - Instructions on setting up a Skype meeting can be found [here](/doc/setting-up-a-skype-meeting.md);
 
 Overview of Collab demos:

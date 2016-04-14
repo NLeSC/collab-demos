@@ -24,21 +24,28 @@ Suggested story line:
 - show the [input page](http://www.emetabolomics.org/magma)
   - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
 - Explain that one of the application areas of metabolomics is nutrition and health
-  - We use an LC-MS/MS measurement of green tea as an example
+  - We use an LC-MS/MS measurement of green tea as an example.
   - Green tea is claimed to be healthy, some evidence exists, but:
-  - Actually proving and understanding the healthy effect of green tea is a challenge
-  - Green tea is complex mixture of biomolecules, which may have different effects in different individuals
+  - Actually proving and understanding the healthy effect of green tea is a challenge.
+  - Green tea is complex mixture of biomolecules, which may have different effects in different individuals.
   - First challenge is to know what is actually in green tea ....
 - Go to: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
-  - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time
+  - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time.
   - Left top panel shows candidate molecules automatically retrieved from the Human Metabolite Database [HMDB](http://www.hmdb.ca).
       - explain what the purpose of the database is
   - The interface helps to assign the correct molecules to the detected molecules based on automatic matching of calculated molecule fragments (top right) to measured fragment peaks (bottom right).
   - Example: MAGMa has automatically detected caffeine as potential constituent of green tea (top molecule in top left panel).
   - Click on cafffeine: green line in chromatogram now shows where caffeine is eluting...
-  - Click on green triangle near retention time 16 min.: the right panels now show the corresponding mass spectra (bottom) and the molecular fragments calculated by the MAGMa algorithm
+  - Click on green triangle near retention time 16 min.: the right panels now show the corresponding mass spectra (bottom) and the molecular fragments calculated by the MAGMa algorithm.
   - In this case 3 different candidate molecules (top left) are possible masses, but: MAGMa give the best score (3rd column) / ranking to the correct cafffeine molecule.
-  - Bottom line: all calculated information by MAGMa in the top two panels help experts to quickly interpret the complex data (shown in the bottom panels).
+- For a longer demo, continue with the following steps:
+  - Click on the "Clear scan selection" button (second of the 5 icons on the top right of the chromatogram).
+  - In Molecules panel: scroll down to sixth molecule, "epigallocatechin gallate", and click.
+  - This molecule is an important constituent of green tea as illustrated by the large (green) peak.
+  - In Chromatogram, zoom in (using the mouse wheel) and click on the green triangle at 20 mins.
+  - In Fragments (upper right), click on second row: the this opens up a 3rd level of fragments both in structures (top) and scans (bottom). It shows the tools is able to explain fragments of fragments, which is a unique feature of MAGMa.
+  - In Molecules, click on Reference "HMDB03153". This links to the corresponding HMDB record. As indicated by the description, this compound is already a known constituent of tea. The last line of the description mentions the growing interest of this compound for its claimed health effects.
+- Bottom line: all calculated information by MAGMa in the top two panels help experts to quickly interpret the complex data (shown in the bottom panels).
 
 ## Known quirks
 
