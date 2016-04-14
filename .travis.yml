@@ -5,4 +5,6 @@ python:
 install: "pip install -r requirements.txt"
 # command to build the readme.md from readme-data.json using src/makereadme.py
 script: bash ./deploy.sh
-
+env:
+  global:
+  - secure: <long key goes here>
