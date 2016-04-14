@@ -6,6 +6,7 @@ import os
 import operator
 import requests
 
+
 class ReadmeMaker:
 
     def __init__(self):
@@ -39,7 +40,7 @@ class ReadmeMaker:
                 print('checking "' + url + '"...')
 
                 # verify whether the provided url is valid
-                request = requests.get(url)
+                request = requests.get(url, timeout=30.0)
                 if request.status_code == 200:
                     # all good, link is valid
                     return '[:white_check_mark:](' + url + ')'
