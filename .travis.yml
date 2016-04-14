@@ -5,6 +5,8 @@ python:
 install: "pip install -r requirements.txt"
 # command to build the readme.md from readme-data.json using src/makereadme.py
 script: bash ./deploy.sh
+
+# useful info from https://github.com/w3ctag/promises-guide/blob/master/deploy-gh-pages.sh and https://github.com/w3ctag/promises-guide/blob/master/.travis.yml
 env:
   global:
   - secure: <long key goes here>
