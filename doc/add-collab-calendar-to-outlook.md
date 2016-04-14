@@ -1,0 +1,2 @@
+It is possible to add a read-only version of the Calendar to your online Outlook calendar. On the left of the Calendar view, right-click on "Other Calendars" ("Andere Agenda's"), then click on "Open Calendar" ("Agenda openen"). Then paste the following iCal URL into the Internet Calendar (Internetagenda) field:
+https://calendar.google.com/calendar/ical/collaboratorium%40surfsara.nl/public/basic.ics
