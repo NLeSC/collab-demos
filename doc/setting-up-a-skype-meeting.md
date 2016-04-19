@@ -10,6 +10,7 @@
 - On the _Advanced_ tab of the Crestron screen (or the iPad), make sure that 
   - you have enabled audio for the _Windows 8_ machine (if you did, there should be a green circle next to _Windows 8_ in the _Advanced_ tab)
   - the Logitech camera is actually out of its cubbyhole (you can do this by pressing _Lift camera_ in the _Advanced_ tab)
+- Microsoft has provided [this](https://support.office.com/en-us/article/Share-your-screen-in-Skype-for-Business-2d436dc9-d092-4ef1-83f1-dd9f7a7cd3fc?ui=en-US&rs=en-US&ad=US) support article for screen sharing.
 
 
 ## From your own laptop
