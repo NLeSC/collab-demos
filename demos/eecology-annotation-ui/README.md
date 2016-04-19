@@ -42,7 +42,7 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, look [here](/demos/eecology-annotation-tool/storyline.md). **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+For a storyline, look [here](/demos/eecology-annotation-ui/storyline.md). **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Scientifically interesting aspects
