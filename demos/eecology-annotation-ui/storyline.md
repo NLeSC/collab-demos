@@ -1,9 +1,9 @@
 
-eecology demo walkthrough
+# eecology demo walkthrough
 
-# setup
+## setup
 
-1. start google earth
+1. start google chrome
 1. (optionally) clear browsing data
 1. go to http://nlesc.github.io/eEcology-Annotation-UI/demo/demo-na.html
 1. windows > reset layout
@@ -19,7 +19,7 @@ eecology demo walkthrough
 1. exit google chrome
 
 
-# demo
+## demo
 
 1. start google chrome
 1. press F11 to go full screen
