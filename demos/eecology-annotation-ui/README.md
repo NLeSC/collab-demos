@@ -4,7 +4,7 @@
    - IP-whitelisting: No. The gull data is publicly available
    - GPU: Not required, but it does help
    - Login required: No
-   - Database: too slow for more than a few hundred annotations (but performance not a problem for data without annotations)
+   - Database: No performance problems
 - **screencast**: [https://vimeo.com/158029473](https://vimeo.com/158029473)
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
@@ -42,7 +42,7 @@ _About the GPS tracker_
 
 # Demo usage
 
-For a storyline, watch the video '/demos/eecology-annotation-ui/demo-screencast.mkv' with subtitles (needs download), or view the [raw](/demos/eecology-annotation-ui/demo-screencast.mkv.srt) subtitle data. **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
+For a storyline, look [here](/demos/eecology-annotation-tool/storyline.md). **Known quirks** are being collected in [this](/../../issues/23) issue. See also the [general remarks](/doc/demo-usage-general-remarks.md) about web demos.
 
 
 # Scientifically interesting aspects
