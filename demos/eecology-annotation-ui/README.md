@@ -9,7 +9,7 @@
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
 
-![screenshot](/demos/eecology-annotation-ui/demo-screenshot.png "eecology-annotation-ui demo screenshot")
+![screenshot](/demos/eecology-annotation-ui/screenshots/screenshot-33.png "eecology-annotation-ui demo screenshot")
 
 
 # General idea of the project
