@@ -20,15 +20,16 @@ In analytical chemistry, when you have a complex mixture of unknown composition,
 You're probably going to need to explain a little bit about LC-MS'es. Read up on it [here](mass-spectrometry-and-liquid-chromatography.md).
 
 Suggested story line:
-- show a picture of an LC-MS. It generates data. 
+- show a picture of an LC-MS/MS. It generates data. 
 - show the [input page](http://www.emetabolomics.org/magma)
-  - Different panels exist for entering / uploading mass spectrometry data, candidate molecular structures and data processing options.
+  - Different panels exist for entering / uploading LC-MS/MS data, candidate molecular structures and data processing options.
 - Explain that one of the application areas of metabolomics is nutrition and health
   - We use an LC-MS/MS measurement of green tea as an example.
   - Green tea is claimed to be healthy, some evidence exists, but:
   - Actually proving and understanding the healthy effect of green tea is a challenge.
-  - Green tea is complex mixture of biomolecules, which may have different effects in different individuals.
-  - First challenge is to know what is actually in green tea ....
+  - Green tea is complex mixture of molecules, which may have different effects in different individuals.
+  - First challenge is to know what is actually in green tea ...
+  - So we've taken a sample of green tea, put it through an LC-MS/MS, and uploaded the data into MAGMa:
 - Go to: [http://www.emetabolomics.org/green_tea_hmdb.html](http://www.emetabolomics.org/green_tea_hmdb.html)
   - Left bottom panel shows the chromatogram: it provides a simplified overview of _hundreds of detected compounds_ as function of retention time.
   - Left top panel shows candidate molecules automatically retrieved from the Human Metabolite Database [HMDB](http://www.hmdb.ca).
