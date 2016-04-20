@@ -1,5 +1,7 @@
 This repository collects knowledge about the demos in the Collaboratorium.
 
+THIS IS THE STATIC FILE EDITED ON GITHUB
+
 The Collaboratorium PC has a Windows 10 installation with the **user account** ``C ollab``. For the corresponding **password**, refer to the [Office IT site](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx) on sharepoint (requires login).
 
 - For physical access to the Collab, ask Maarten for his key. Or, check the key locker next to Karima for the shared key.
