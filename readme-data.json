@@ -4,6 +4,7 @@
     "data": [
         {
             "name": "eecology-annotation-ui",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html",
                 "document": "/blob/master/demos/eecology-annotation-ui/README.md",
@@ -14,6 +15,7 @@
         },
         {
             "name": "ahn2",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://ahn2.pointclouds.nl/",
                 "document": "/blob/master/demos/ahn2/README.md",
@@ -24,6 +26,7 @@
         },
         {
             "name": "emetabolomics",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://www.emetabolomics.org/green_tea_hmdb.html",
                 "document": "/blob/master/demos/emetabolomics/README.md",
@@ -34,6 +37,7 @@
         },
         {
             "name": "esalsa",
+            "iscomplete": true,
             "urls": {
                 "demo": "",
                 "document": "/blob/master/demos/esalsa/README.md",
@@ -44,6 +48,7 @@
         },
         {
             "name": "ewatercycle",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://forecast.ewatercycle.org/",
                 "document": "/blob/master/demos/ewatercycle/README.md",
@@ -54,6 +59,7 @@
         },
         {
             "name": "metrochart",
+            "iscomplete": false,
             "urls": {
                 "demo": "http://jspaaks.github.io/metrochart/demo/",
                 "document": "/blob/master/demos/metrochart/README.md",
@@ -64,6 +70,7 @@
         },
         {
             "name": "summerinthecity",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://summerinthecity.github.io/heatwavemap/",
                 "document": "/blob/master/demos/summerinthecity/README.md",
@@ -74,6 +81,7 @@
         },
         {
             "name": "uncertainty-visualization",
+            "iscomplete": false,
             "urls": {
                 "demo": "https://nlesc.github.io/UncertaintyVisualization",
                 "document": "/blob/master/demos/uncertainty-visualization/README.md",
@@ -84,6 +92,7 @@
         },
         {
             "name": "viaappia",
+            "iscomplete": true,
             "urls": {
                 "demo": "http://viaappia.esciencecenter.nl",
                 "document": "/blob/master/demos/viaappia/README.md",
@@ -94,6 +103,7 @@
         },
         {
             "name": "wetenschapsagenda",
+            "iscomplete": false,
             "urls": {
                 "demo": "http://wetenschapsagenda.esciencecenter.nl",
                 "document": "/blob/master/demos/wetenschapsagenda/README.md",
