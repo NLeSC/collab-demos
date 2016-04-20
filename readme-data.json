@@ -4,7 +4,7 @@
     "data": [
         {
             "name": "eecology-annotation-ui",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "http://nlesc.github.io/eEcology-Annotation-UI/demo/demo.html",
                 "document": "/blob/master/demos/eecology-annotation-ui/README.md",
@@ -15,7 +15,7 @@
         },
         {
             "name": "ahn2",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "http://ahn2.pointclouds.nl/",
                 "document": "/blob/master/demos/ahn2/README.md",
@@ -26,7 +26,7 @@
         },
         {
             "name": "emetabolomics",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "http://www.emetabolomics.org/green_tea_hmdb.html",
                 "document": "/blob/master/demos/emetabolomics/README.md",
@@ -37,7 +37,7 @@
         },
         {
             "name": "esalsa",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "",
                 "document": "/blob/master/demos/esalsa/README.md",
@@ -48,7 +48,7 @@
         },
         {
             "name": "ewatercycle",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "http://forecast.ewatercycle.org/",
                 "document": "/blob/master/demos/ewatercycle/README.md",
@@ -70,7 +70,7 @@
         },
         {
             "name": "summerinthecity",
-            "iscomplete": true,
+            "iscomplete": false,
             "urls": {
                 "demo": "http://summerinthecity.github.io/heatwavemap/",
                 "document": "/blob/master/demos/summerinthecity/README.md",
