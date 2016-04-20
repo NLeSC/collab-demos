@@ -60,7 +60,7 @@ class ReadmeMaker:
 
         tableHeader = '| Name | Demo | Document | Screencast | Code | Presentation\n' +\
                       '| --- | --- | --- | --- | --- | --- |\n'
-        tabularFormat = '| %s | %s | %s | %s | %s | %s |\n'
+        tabularFormat = '| %d. %s | %s | %s | %s | %s | %s |\n'
         tableFooter = '|  |  |  |  |  |  |\n' + \
                       '| For HTTP codes, see [here](https://www.w3.org/Protocols/rfc26' +\
                       '16/rfc2616-sec10.html) |  |  |  |  |  |\n'
@@ -72,16 +72,22 @@ class ReadmeMaker:
             # sort list of dictionaries by self.data['data']['name'] value:
             self.data['data'].sort(key=operator.itemgetter('name'))
 
+            count = 0
+
             for entry in self.data['data']:
-                f.write(tabularFormat % (entry['name'],
-                                         linkify(entry['urls']['demo']),
-                                         linkify(entry['urls']['document']),
-                                         linkify(entry['urls']['screencast']),
-                                         linkify(entry['urls']['code']),
-                                         linkify(entry['urls']['presentation'])))
+                if entry['iscomplete']:
+                    count += 1
+                    f.write(tabularFormat % (count,
+                                             entry['name'],
+                                             linkify(entry['urls']['demo']),
+                                             linkify(entry['urls']['document']),
+                                             linkify(entry['urls']['screencast']),
+                                             linkify(entry['urls']['code']),
+                                             linkify(entry['urls']['presentation'])))
             if self.showTableFooter:
                 f.write(tableFooter)
 
+            print('%d items in the table.' % count)
 
 if __name__ == '__main__':
 
