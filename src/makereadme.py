@@ -58,12 +58,12 @@ class ReadmeMaker:
 
 
 
-        tableHeader = '|   | Name | Demo | Document | Screencast | Code | Presentation\n' +\
-                      '| --- | --- | --- | --- | --- | --- | --- |\n'
-        tabularFormat = '| %d | %s | %s | %s | %s | %s | %s |\n'
-        tableFooter = '|  |  |  |  |  |  |  |\n' + \
+        tableHeader = '| Name | Demo | Document | Screencast | Code | Presentation\n' +\
+                      '| --- | --- | --- | --- | --- | --- |\n'
+        tabularFormat = '| %d. %s | %s | %s | %s | %s | %s |\n'
+        tableFooter = '|  |  |  |  |  |  |\n' + \
                       '| For HTTP codes, see [here](https://www.w3.org/Protocols/rfc26' +\
-                      '16/rfc2616-sec10.html) |  |  |  |  |  |  |\n'
+                      '16/rfc2616-sec10.html) |  |  |  |  |  |\n'
 
         with open(self.outfile, 'w') as f:
             f.write(self.data['header-paragraphs'])
