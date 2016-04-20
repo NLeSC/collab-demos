@@ -23,7 +23,7 @@
 
 1. start google chrome
 1. press F11 to go full screen
-1. select bird tracker 355 (default), start date and time (default) and end date and time (default)
+1. select bird tracker 355 (default), start date and time (default) and end date and time (default), click Load tracker
 1. enable widget 'Cesium 3D globe'
 1. set Cesium map to 2-D representation, zoom to where the data is
 1. enable widget 'Timeline'
