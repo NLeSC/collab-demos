@@ -13,8 +13,8 @@ set -o nounset
 python3 src/makereadme.py
 
 # tell git who is doing this commit
-git config --global user.email "j.spaaks@esciencecenter.nl"
-git config --global user.name "Travis CI"
+git config user.email "j.spaaks@esciencecenter.nl"
+git config user.name "Travis CI"
 
 # commit the updated README.md
 git add ./README.md
