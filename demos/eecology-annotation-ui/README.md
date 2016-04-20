@@ -5,7 +5,7 @@
    - GPU: Not required, but it does help
    - Login required: No
    - Database: No performance problems
-- **screencast**: [https://vimeo.com/163425797](https://vimeo.com/163425797)
+- **screencast**: [https://vimeo.com/163425797](https://vimeo.com/163425797), powerpoint [presentation](/demos/eecology-annotation-ui/eecology-demo-presentation.pttx)
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
 - **screenshot**:
 
