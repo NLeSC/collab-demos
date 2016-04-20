@@ -9,4 +9,6 @@ script: bash ./deploy.sh
 # useful info from https://github.com/w3ctag/promises-guide/blob/master/deploy-gh-pages.sh and https://github.com/w3ctag/promises-guide/blob/master/.travis.yml
 env:
   global:
+  - GH_REPO: github.com/jspaaks/collab-demos.git
+  - GH_USER: jspaaks
   - secure: <long key goes here>
