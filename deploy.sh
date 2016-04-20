@@ -12,7 +12,11 @@ set -o nounset
 # call the python script that generates the readme.md
 python3 src/makereadme.py
 
-# Commit the updated README.md
+# tell git who is doing this commit
+git config --global user.email "j.spaaks@esciencecenter.nl"
+git config --global user.name "Travis CI"
+
+# commit the updated README.md
 git add ./README.md
 git commit -m "travis-ci: automatically generated README.md"
 
