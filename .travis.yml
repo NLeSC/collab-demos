@@ -13,5 +13,5 @@ install:
   # define where the origin lives (github) and how travis should reach it (over ssh)
   - git remote set-url origin git@github.com:jspaaks/collab-demos.git
 script:
-  # command to build the readme.md from readme-data.json using src/makereadme.py
+  # command to build the README.md from readme-data.json using src/makereadme.py
   - bash ./deploy.sh
