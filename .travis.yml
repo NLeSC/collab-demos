@@ -6,14 +6,31 @@ python:
 before_install:
   # decrypt the private key file .travis.key.enc using another set
   # of key files from https://travis-ci.org/NLeSC/collab-demos/settings. Note
-  # that those key files were put there when I executed TODO FIXME locally.
-  # breakdown as follows:
+  # that those key files were put there when I executed
+  #
+  # travis encrypt-file .travis.key
+  #
+  # locally. Note that this requires a Ruby installation 1.9.3 or higher:
+  #
+  # sudo apt-get install ruby
+  #
+  # I also needed the dev files for some reason:
+  #
+  # sudo apt-get install ruby-dev
+  #
+  # Then I installed the travis cli client as follows:
+  #
+  # sudo gem install travis -v 1.8.2 --no-rdoc --no-ri
+  #
+  #
+  # The openssl command breaks down as follows:
+  #
   # openssl aes-256-cbc                 use openssl program with aes-256-cbc algorithm
   # -d                                  enable decryption mode
   # -in .travis.key.enc                 read the encrypted key file from this file
   # -out .travis.key                    output the decrypted key file into this file
-  # -K $encrypted_c726f3711a39_key      authenticate with key and iv files stored in travis
-  # -iv $encrypted_c726f3711a39_iv
+  # -K $encrypted_2885659b6141_key      authenticate with key and iv files stored in travis
+  # -iv $encrypted_2885659b6141_iv
   |
   openssl aes-256-cbc \
   -d \
