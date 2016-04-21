@@ -57,8 +57,6 @@ class ReadmeMaker:
                     self.showTableFooter = True
                     return '[:warning:](' + url + ')(' + str(request.status_code) + ')'
 
-
-
         tableHeader = '| Name | Demo | Document | Screencast | Code | Presentation\n' +\
                       '| --- | --- | --- | --- | --- | --- |\n'
         tabularFormat = '| %d. %s | %s | %s | %s | %s | %s |\n'
