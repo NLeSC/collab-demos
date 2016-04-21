@@ -81,7 +81,7 @@
         },
         {
             "name": "uncertainty-visualization",
-            "iscomplete": false,
+            "iscomplete": true,
             "urls": {
                 "demo": "https://nlesc.github.io/UncertaintyVisualization",
                 "document": "/blob/master/demos/uncertainty-visualization/README.md",
@@ -103,7 +103,7 @@
         },
         {
             "name": "wetenschapsagenda",
-            "iscomplete": false,
+            "iscomplete": true,
             "urls": {
                 "demo": "http://wetenschapsagenda.esciencecenter.nl",
                 "document": "/blob/master/demos/wetenschapsagenda/README.md",
