@@ -5,7 +5,19 @@ before_install:
   # decrypt the private key file .travis.collab-demos.key.enc using another set
   # of key files from https://travis-ci.org/jspaaks/collab-demos/settings. Note
   # that those key files were put there when I executed TODO FIXME locally.
-  - openssl aes-256-cbc -K $encrypted_c726f3711a39_key -iv $encrypted_c726f3711a39_iv -in .travis.collab-demos.key.enc -out .travis.collab-demos.key -d
+  # breakdown as follows:
+  # openssl aes-256-cbc                 use openssl program with aes-256-cbc algorithm
+  # -d                                  enable decryption mode
+  # -in .travis.collab-demos.key.enc    read the encrypted key file from this file
+  # -out .travis.collab-demos.key       output the decrypted key file into this file
+  # -K $encrypted_c726f3711a39_key      authenticate with key and iv files stored in travis
+  # -iv $encrypted_c726f3711a39_iv
+  | openssl aes-256-cbc
+  -d
+  -in .travis.collab-demos.key.enc
+  -out .travis.collab-demos.key
+  -K $encrypted_c726f3711a39_key
+  -iv $encrypted_c726f3711a39_iv
 install:
   # set file permissions on .travis.collab-demos.key so that Travis can read the key file
   - chmod 400 .travis.collab-demos.key
