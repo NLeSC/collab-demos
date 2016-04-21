@@ -1,3 +1,5 @@
+# YAML linter lives here: http://lint.travis-ci.org
+
 language: python
 python:
   - "3.4"
@@ -12,7 +14,8 @@ before_install:
   # -out .travis.collab-demos.key       output the decrypted key file into this file
   # -K $encrypted_c726f3711a39_key      authenticate with key and iv files stored in travis
   # -iv $encrypted_c726f3711a39_iv
-  | openssl aes-256-cbc
+  |
+  openssl aes-256-cbc
   -d
   -in .travis.collab-demos.key.enc
   -out .travis.collab-demos.key
