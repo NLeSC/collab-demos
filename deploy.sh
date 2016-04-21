@@ -1,7 +1,10 @@
 #!/bin/bash
 
 # This file is based on the instructions I found here:
-# https://gist.github.com/domenic/ec8b0fc8ab45f39403dd
+# https://gist.github.com/domenic/ec8b0fc8ab45f39403dd (but don't use personal
+# access tokens, use deploy keys instead---as those are repo specific)
+# Some more info here:
+# https://github.com/3D-e-Chem/3D-e-Chem.github.io/blob/master/BUILD_NIGHTLY.md
 
 # exit on any error
 set -o errexit
@@ -18,9 +21,7 @@ git checkout master
 # call the python script that generates the readme.md
 python3 src/makereadme.py
 
-# commit the updated README.md
+# add, commit, and push the updated README.md
 git add ./README.md
 git commit --allow-empty -m "$(git config user.name): automatically generated README.md"
-
-#git push git@github.com:${TRAVIS_REPO_SLUG}.git $TRAVIS_BRANCH
 git push origin master:master

@@ -10,7 +10,8 @@ install:
   # tell git who is doing this commit
   - git config user.email "j.spaaks@esciencecenter.nl"
   - git config user.name "Travis CI"
-  - git remote set-url origin git@github.com:${TRAVIS_REPO_SLUG}.git
+  #- git remote set-url origin git@github.com:${TRAVIS_REPO_SLUG}.git
+  - git remote set-url origin git@github.com:jspaaks/collab-demos.git
 script:
   # command to build the readme.md from readme-data.json using src/makereadme.py
   - bash ./deploy.sh
