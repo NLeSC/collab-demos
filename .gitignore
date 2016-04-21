@@ -1,2 +1,6 @@
+# no need to commit Python virtual environment files
 /.venv
+
+# Don't commit ssh private key files
+/*.key
 
