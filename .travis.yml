@@ -1,8 +1,36 @@
+# YAML linter lives here: http://lint.travis-ci.org
+
 language: python
 python:
   - "3.4"
-# command to install dependencies
-install: "pip install -r requirements.txt"
-# command to build the readme.md from readme-data.json using src/makereadme.py
-script: src/makereadme.py 
-
+before_install:
+  # decrypt the private key file .travis.collab-demos.key.enc using another set
+  # of key files from https://travis-ci.org/jspaaks/collab-demos/settings. Note
+  # that those key files were put there when I executed TODO FIXME locally.
+  # breakdown as follows:
+  # openssl aes-256-cbc                 use openssl program with aes-256-cbc algorithm
+  # -d                                  enable decryption mode
+  # -in .travis.collab-demos.key.enc    read the encrypted key file from this file
+  # -out .travis.collab-demos.key       output the decrypted key file into this file
+  # -K $encrypted_c726f3711a39_key      authenticate with key and iv files stored in travis
+  # -iv $encrypted_c726f3711a39_iv
+  |
+  openssl aes-256-cbc \
+  -d \
+  -in .travis.collab-demos.key.enc \
+  -out .travis.collab-demos.key \
+  -K $encrypted_c726f3711a39_key \
+  -iv $encrypted_c726f3711a39_iv
+install:
+  # set file permissions on .travis.collab-demos.key so that Travis can read the key file
+  - chmod 400 .travis.collab-demos.key
+  - eval `ssh-agent -s`
+  - ssh-add .travis.collab-demos.key
+  # tell git who is doing this commit
+  - git config user.email "j.spaaks@esciencecenter.nl"
+  - git config user.name "Travis CI"
+  # define where the origin lives (github) and how travis should reach it (over ssh)
+  - git remote set-url origin git@github.com:jspaaks/collab-demos.git
+script:
+  # command to build the README.md from readme-data.json using src/makereadme.py
+  - bash ./deploy.sh
