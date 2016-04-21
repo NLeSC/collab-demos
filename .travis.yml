@@ -19,8 +19,8 @@ before_install:
   -d \
   -in .travis.key.enc \
   -out .travis.key \
-  -K $encrypted_c726f3711a39_key \
-  -iv $encrypted_c726f3711a39_iv
+  -K $encrypted_2885659b6141_key \
+  -iv $encrypted_2885659b6141_iv
 install:
   # set file permissions on .travis.key so that Travis can read the key file
   - chmod 400 .travis.key
