@@ -11,4 +11,4 @@ env:
   global:
   - GH_REPO: github.com/jspaaks/collab-demos.git
   - GH_USER: jspaaks
-  - secure: <long key goes here>
+  - secure: nA6xkPHGndO0cOc/heRmSALiChaUHqImQGR/fq7Vk91yFqedExUKQSGn5I9MtFzzUo8f0igDAXhw85LK6rspnMWDvyP3G4LD1TfvY8/AsQfr+VWKi7OoFEO2MJrKDeE2E1SfwBB/BTUURJBpl0IWpekCxqyLJGTX13JquXct5ctXh2tRLzShwtJxT/pnwf7rsQ40or7S9Csz1SZOOcCajDQWzvHlOjm5rlTK2SGKjLXjdoS+lnFa2OKVCLLUonp55n3G9GFfwuWr3Zh6IL6/yW6El509rXLnR4q0nB0nWtzlqc7GveE6rckDJnV5Y7EVm0D0E49zcyJRtWmdSIooNTV1Z8QwtgRCgg4boZ5E/rqBMaK6A1beec45E77vnNAi/rhUH5yHI3SkgiLevRFV7ht/VmteRQ9ljPNpRaNfI3nqFYzlSnRPONC8oVxQd9Gvew9wVbDlRd7Hixn+Rc62ILO/uqe6BpYsm99ESO99mgsJNJ+bkm566ZJj2kkrshAPQxN6Mc0dNsToO4/SrxFvQp1pKprwFhr/rqSypTpCejSoPrwGNnQjOzHQfy3gfC+s0ac83EiTbz+sIgZqj++MVmfKav7aYxBNvUumei6yQWu+fbLpGN9+RPs0C0KSOvUwO05HmB6HdwA7hu/wQIfOcYVuO3MZIOj36LoBTeccpdo=
