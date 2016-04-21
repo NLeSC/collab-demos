@@ -3,4 +3,4 @@
 
 # Don't commit ssh private key files
 /*.key
-
+.travis.key
