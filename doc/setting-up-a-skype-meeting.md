@@ -5,6 +5,8 @@
 
 ### Using Skype
 
+FYI: Normally, there should not be an advantage of using Skype for Business over Skype, see [here](https://support.skype.com/en/faq/FA34551/what-s-the-difference-between-skype-and-skype-for-business) for the comparison.
+
 - First off, here's the reference to the [troubleshooting](/doc/troubleshooting-skype.md) document in case you need it;
 - On the desktop, there is an icon _Skype_;
 - Start Skype and log in with your private account's user name and password; 
@@ -18,6 +20,8 @@
 
 
 ### Using Skype for business
+
+FYI: Normally, there should not be an advantage of using Skype for Business over Skype, see [here](https://support.skype.com/en/faq/FA34551/what-s-the-difference-between-skype-and-skype-for-business) for the comparison.
 
 - On the desktop, there is an icon _Skype for Business_; 
 - Start Skype for Business and log in as user **collab&#64;esciencecenter.nl** using the same password as for logging into the Windows 10 machine itself; the credentials are posted [here](https://nlesc.sharepoint.com/it/SitePages/Collab.aspx).
