@@ -4,3 +4,8 @@
 # Don't commit ssh private key files
 /*.key
 .travis.key
+
+
+# do not commit any PyCharm configuration files
+/.idea
+
