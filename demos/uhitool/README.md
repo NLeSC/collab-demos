@@ -1,16 +1,16 @@
 # In short
 
-- **url**: [someurl](someurl)
-   - IP-whitelisting:
-   - Requires login:
-   - Works better with GPU: (speed, memory)
-   - Database: (speed)
-   - Network: (speed, interference of other devices when on wireless)
+- **url**: [http://summerinthecity.github.io/uhitool/](http://summerinthecity.github.io/uhitool/)
+   - IP-whitelisting: No
+   - Requires login: No
+   - Works better with GPU: Doesn't really matter
+   - Database: N/A
+   - Network: N/A
 - **screencast**: Not available
-- **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
+- **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
 - **screenshot**: 
  
-![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")
+![screenshot](/demos/uhitool/screencapture-demo-uhitool.png "uhitool demo screenshot")
 
 # General idea of the project
 
