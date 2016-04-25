@@ -1,0 +1,5 @@
+# troubleshooting Skype
+
+- It seems that screensharing the whole desktop (8x Full HD) does not work. You can either share a window (see [here](https://support.skype.com/en/faq/FA10215/how-do-i-share-my-screen-in-skype-for-windows-desktop)), or make the desktop smaller through the Crestron touchscreen.
+- Sometimes the video part of the Skype application flickers if you have expanded the Skype application over multiple screens. The working hypothesis is that this behavior is related to when the Skype application was started. So if you have the flickering behavior, right-click the Skype icon in the taskbar, quit the application, then restart it. FYI, the success rate (of having stable video) seems to be about 1 in 5, so be prepared to do this a couple times. It's probably a good idea to set this up _before_ your meeting starts but you knew that already.
+- If you're trying to share your screen to a person who happens to use Skype's client application for Linux (specifically, version 4.3.0.37), be aware that while the other person sees your desktop, the resolution is too low to be able to read anything.
