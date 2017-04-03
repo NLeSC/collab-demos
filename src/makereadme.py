@@ -6,6 +6,7 @@ import os
 import operator
 import requests
 import datetime
+import warnings
 
 
 class ReadmeMaker:
@@ -41,7 +42,12 @@ class ReadmeMaker:
                 print('checking "' + url + '"...')
 
                 # verify whether the provided url is valid
-                request = requests.get(url, timeout=30.0)
+                try:
+                    request = requests.get(url, timeout=30.0)
+                except:
+                    warnings.warn('Something went wrong making the request.')
+                    return '[:heavy_exclamation_mark:](' + url + ')'
+
                 if request.status_code == 200:
                     # all good, link is valid
                     return '[:white_check_mark:](' + url + ')'
@@ -56,6 +62,7 @@ class ReadmeMaker:
                     print('Unusual status code (' + str(request.status_code) + ').')
                     self.showTableFooter = True
                     return '[:warning:](' + url + ')(' + str(request.status_code) + ')'
+
 
         tableHeader = '| Name | Demo | Document | Screencast | Code | Presentation\n' +\
                       '| --- | --- | --- | --- | --- | --- |\n'
