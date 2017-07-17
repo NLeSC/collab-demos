@@ -52,7 +52,8 @@ before_script:
   - ps aux
 after_script:
   - ps aux
+  # kill background process to avoid Travis hanging
+  - ssh-agent -k
 script:
   # command to build the README.md from readme-data.json using src/makereadme.py
   - bash ./deploy.sh
-  - ssh-agent -k
