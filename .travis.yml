@@ -48,6 +48,10 @@ install:
   - git config user.name "Travis CI"
   # define where the origin lives (github) and how travis should reach it (over ssh)
   - git remote set-url origin git@github.com:NLeSC/collab-demos.git
+before_script:
+  - ps aux
+after_script:
+  - ps aux
 script:
   # command to build the README.md from readme-data.json using src/makereadme.py
   - bash ./deploy.sh
