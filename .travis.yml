@@ -41,7 +41,7 @@ before_install:
 install:
   # set file permissions on .travis.key so that Travis can read the key file
   - chmod 400 .travis.key
-  - eval `ssh-agent -s`
+  - eval `ssh-agent -s -D`
   - ssh-add .travis.key
   # tell git who is doing this commit
   - git config user.email "j.spaaks@esciencecenter.nl"
