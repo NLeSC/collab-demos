@@ -1,59 +1,31 @@
-# YAML linter lives here: http://lint.travis-ci.org
-
+--- 
+after_script: 
+  - "ps aux"
+  - "ssh-agent -k"
+before_install: |
+    openssl aes-256-cbc \
+    -d \
+    -in .travis.key.enc \
+    -out .travis.key \
+    -K $encrypted_2885659b6141_key \
+    -iv $encrypted_2885659b6141_iv
+before_script: 
+  - "ps aux"
+install: 
+  - "chmod 400 .travis.key"
+  - "eval `ssh-agent -s`"
+  - "ssh-add .travis.key"
+  - "git config user.email \"j.spaaks@esciencecenter.nl\""
+  - "git config user.name \"Travis CI\""
+  - "git remote set-url origin git@github.com:NLeSC/collab-demos.git"
 language: python
-python:
+notifications: 
+  email: 
+    on_failure: always
+    on_success: never
+    recipients: 
+      - j.spaaks@esciencecenter.nl
+python: 
   - "3.4"
-before_install:
-  # decrypt the private key file .travis.key.enc using another set
-  # of key files from https://travis-ci.org/NLeSC/collab-demos/settings. Note
-  # that those key files were put there when I executed
-  #
-  # travis encrypt-file .travis.key
-  #
-  # locally. Note that this requires a Ruby installation 1.9.3 or higher:
-  #
-  # sudo apt-get install ruby
-  #
-  # I also needed the dev files for some reason:
-  #
-  # sudo apt-get install ruby-dev
-  #
-  # Then I installed the travis cli client as follows:
-  #
-  # sudo gem install travis -v 1.8.2 --no-rdoc --no-ri
-  #
-  #
-  # The openssl command breaks down as follows:
-  #
-  # openssl aes-256-cbc                 use openssl program with aes-256-cbc algorithm
-  # -d                                  enable decryption mode
-  # -in .travis.key.enc                 read the encrypted key file from this file
-  # -out .travis.key                    output the decrypted key file into this file
-  # -K $encrypted_2885659b6141_key      authenticate with key and iv files stored in travis
-  # -iv $encrypted_2885659b6141_iv
-  |
-  openssl aes-256-cbc \
-  -d \
-  -in .travis.key.enc \
-  -out .travis.key \
-  -K $encrypted_2885659b6141_key \
-  -iv $encrypted_2885659b6141_iv
-install:
-  # set file permissions on .travis.key so that Travis can read the key file
-  - chmod 400 .travis.key
-  - eval `ssh-agent -s`
-  - ssh-add .travis.key
-  # tell git who is doing this commit
-  - git config user.email "j.spaaks@esciencecenter.nl"
-  - git config user.name "Travis CI"
-  # define where the origin lives (github) and how travis should reach it (over ssh)
-  - git remote set-url origin git@github.com:NLeSC/collab-demos.git
-before_script:
-  - ps aux
-after_script:
-  - ps aux
-  # kill background process to avoid Travis hanging
-  - ssh-agent -k
-script:
-  # command to build the README.md from readme-data.json using src/makereadme.py
-  - bash ./deploy.sh
+script: 
+  - "bash ./deploy.sh"
