@@ -2,7 +2,7 @@
 # In short
 
 - **url**: http://viaappia.esciencecenter.nl/
- - IP-whitelisting
+ - IP-whitelisting or username/password (see LastPass)
  - Works better with GPU
 - **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk](https://www.youtube.com/watch?v=I3DLXSrRiyk)
 - **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
