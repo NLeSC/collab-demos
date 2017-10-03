@@ -24,4 +24,10 @@ python3 src/makereadme.py
 # add, commit, and push the updated README.md
 git add ./README.md
 git commit --allow-empty -m "$(git config user.name): automatically generated README.md"
+
+# not sure this will work but removing this file might resolve issue
+# https://github.com/NLeSC/collab-demos/issues/104
+# see https://github.com/git-lfs/git-lfs/issues/2291
+git rm .git/hooks/pre-push
+
 git push origin master:master
