@@ -17,7 +17,7 @@ class ReadmeMaker:
         self.outfile = 'README.md'
         self.repository = 'https://github.com/NLeSC/collab-demos'
         self.data = None
-        self.showTableFooter = False
+        self.showTableFooter = True
 
     def readjson(self):
         if os.path.isfile(self.infile):
