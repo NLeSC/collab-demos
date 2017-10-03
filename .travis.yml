@@ -26,6 +26,6 @@ notifications:
     recipients: 
       - j.spaaks@esciencecenter.nl
 python: 
-  - "3.4"
+  - "3.5"
 script: 
   - "bash ./deploy.sh"
