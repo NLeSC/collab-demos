@@ -5,7 +5,7 @@
 - **contact person**: [Faruk Diblen](https://www.esciencecenter.nl/profile/faruk-diblen-msc)
 - **screenshot**:
 
-![screenshot](/demos/caselaw/screencapture-demo-spot.png "SPOT Screenshot")
+![screenshot](/demos/spot/screencapture-demo-spot.png "SPOT Screenshot")
 
 
 # General idea of the project
