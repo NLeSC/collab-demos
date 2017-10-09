@@ -133,6 +133,17 @@
                 "code": "https://github.com/NLeSC/case-law-app",
                 "presentation": ""
             }
+        },
+        {
+            "name": "SPOT",
+            "iscomplete": true,
+            "urls": {
+                "demo": "http://nlesc.github.io/spot",
+                "document": "/blob/master/demos/spot/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/SPOT",
+                "presentation": ""
+            }
         }
     ]
 }
