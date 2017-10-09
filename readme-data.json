@@ -122,6 +122,17 @@
                 "code": "https://github.com/NLeSC/wetenschapsagenda",
                 "presentation": ""
             }
+        },
+        {
+            "name": "caselaw-analytics",
+            "iscomplete": true,
+            "urls": {
+                "demo": "https://nlesc.github.io/case-law-app/",
+                "document": "/blob/master/demos/caselaw/README.md",
+                "screencast": "",
+                "code": "https://github.com/NLeSC/case-law-app",
+                "presentation": ""
+            }
         }
     ]
 }
