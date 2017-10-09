@@ -30,4 +30,5 @@ TODO
 
 # Further reading
 
-TODO
+- SPOT [tutorial](https://nicorenaud.gitbooks.io/spot-first-step/content/)
+- [Github](https://github.com/NLeSC/spot-desktop-app/releases) repository for the desktop app
