@@ -28,17 +28,18 @@ rulings are often difficult to understand, there is only limited time available,
 and even experts are not aware of all cases that may be relevant.
 
 The aim of this project was therefore to develop software that could assist the
-legal community in analyzing case law. For this, NLeSC worked together with
-Maastricht University to develop an interactive visualization. This has been
-implemented as follows. The collective of cases that together make up case law
-can be thought of as a network, or _graph_. Each node in the graph represents a
-case, while the edges represent references to other cases. The graph can be
-visualized to make it easy for a non-technical user to discover which cases are
-related. By using metrics from graph theory, such as _in-degree_, _out-degree_,
-_betweenness_, etc., the nodes in the graph can be annotated with additional
-information. The additional  information helps a researcher quickly assess a
-node's importance. By presenting case law visually as a graph, the structure
-underpinning case law is made explicit.
+legal community at large (prosecutors, judges, lawyers, legal aids, but also
+researchers and students) in analyzing case law. For this, NLeSC worked together
+with Maastricht University to develop an interactive visualization. This has
+been implemented as follows. The collective of cases that together make up case
+law can be thought of as a network, or _graph_. Each node in the graph
+represents a case, while the edges represent references to other cases. The
+graph can be visualized to make it easy for a non-technical user to discover
+which cases are related. By using metrics from graph theory, such as
+_in-degree_, _out-degree_, _betweenness_, etc., the nodes in the graph can be
+annotated with additional information. The additional  information helps a
+researcher quickly assess a node's importance. By presenting case law visually
+as a graph, the structure underpinning case law is made explicit.
 
 # Demo usage
 
@@ -72,7 +73,9 @@ relations between hundreds of such documents! Much better to have the app.
 
 ## Known quirks
 
-The app behaves pretty predictable. Good job Dafne!
+In general, the app behaves pretty predictable. Only exception is the _adjust
+layout for slider_ checkbox and the slider right above it. Still, good job
+Dafne!
 
 # Scientifically interesting aspects
 
@@ -90,8 +93,6 @@ outperform the expert._”
 
 # Technologically interesting aspects
 
-- Automatically extracting relations between court rulings is not trivial, mostly
-due to the "legalese" in which court documents are written.
 - Application of graph theory to case law text
 
 # Further reading
