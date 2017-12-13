@@ -99,11 +99,11 @@ due to the "legalese" in which court documents are written.
 - Project [website](https://www.esciencecenter.nl/project/case-law-analytics) on
 esciencecenter.nl
 - Dafne's [lunch presentation](https://web.microsoftstream.com/video/0f839d2b-4ed8-482f-8efb-ebec5bd0a740)
-about Case Law Analytics March 23, 2017 (bad audio)
+about Case Law Analytics March 23, 2017 (bad audio; requires login)
 - Dafne's [presentation](https://web.microsoftstream.com/video/af9aecd1-3e1e-496a-9c6e-015260995399)
-about Case Law Analytics at the ASDI information event April 4, 2017 (bad audio)
+about Case Law Analytics at the ASDI information event April 4, 2017 (bad audio; requires login)
 - Ilya's [lunch presentation](https://web.microsoftstream.com/video/f9ed3dfd-2dd0-41af-8871-0d4f336f4cfe)
-about Case Law Analytics June 29, 2017 (bad audio)
+about Case Law Analytics June 29, 2017 (bad audio; requires login)
 - blog [post](https://blog.esciencecenter.nl/how-can-network-analysis-lead-to-a-new-way-of-studying-court-decisions-686ccf4d46aa)
 about how network analysis leads to a new way of studying court decisions
 - YouTube [video](https://www.youtube.com/watch?v=pjkYtaaxnco) by Law Blogs
