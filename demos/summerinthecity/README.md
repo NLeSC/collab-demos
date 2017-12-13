@@ -3,6 +3,7 @@
 - **url:**  [http://summerinthecity.github.io/heatwavemap/](http://summerinthecity.github.io/heatwavemap/)
 - **screencast**: [https://vimeo.com/154200273](https://vimeo.com/154200273)
 - **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 
 ![screenshot](/demos/summerinthecity/screencapture-demo-summer-in-the-city.png "Summer in the City screenshot")

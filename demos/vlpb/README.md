@@ -3,6 +3,7 @@
 - **url**: N/A
 - **screencast**: TODO
 - **contact person**: [Mateusz Kuzak](https://www.esciencecenter.nl/profile/mateusz-kuzak-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")

@@ -4,6 +4,7 @@
    - Works better with GPU
 - **screencast**: [https://vimeo.com/154200270](https://vimeo.com/154200270) or [https://youtu.be/odLSB2rExHQ](https://youtu.be/odLSB2rExHQ)
 - **contact person**: [Oscar Martinez-Rubi](https://www.esciencecenter.nl/profile/oscar-martinez-rubi-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 
 ![screenshot](/demos/ahn2/screencapture-demo-ahn2.png "AHN2 Screenshot")

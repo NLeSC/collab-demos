@@ -3,6 +3,7 @@
 - **url**: ~~[someurl](someurl)~~
 - **screencast**: Not available
 - **contact person**: [Carlos Martinez-Ortiz](https://www.esciencecenter.nl/profile/dr.-carlos-martinez-ortiz)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")

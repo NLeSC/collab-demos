@@ -8,6 +8,7 @@
    - Network: N/A
 - **screencast**: Not available
 - **contact person**: [Jisk Attema](https://www.esciencecenter.nl/profile/dr.-jisk-attema)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/uhitool/screencapture-demo-uhitool.png "uhitool demo screenshot")

@@ -8,6 +8,7 @@
     - Network: Transferring data is not a bottleneck for this demo
 - **screencast**: Not available
 - **contact person**: [Dafne van Kuppevelt](https://www.esciencecenter.nl/profile/dafne-van-kuppevelt-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 ![screenshot](/demos/caselaw/screencapture-demo-caselaw.png "Caselaw Screenshot")
 

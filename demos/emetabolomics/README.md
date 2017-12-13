@@ -8,6 +8,7 @@
     - Network: Transferring data is not a bottleneck for this demo
 - **screencast**: Not available
 - **contact person**: [Lars Ridder](https://www.esciencecenter.nl/profile/dr.-lars-ridder), [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 ![screenshot](/demos/emetabolomics/screencapture-demo-emetabolomics.png "emetabolomics demo screenshot")
 

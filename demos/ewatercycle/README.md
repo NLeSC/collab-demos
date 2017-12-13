@@ -4,6 +4,7 @@
 - **url**: [http://forecast.ewatercycle.org/](http://forecast.ewatercycle.org/)
 - **screencast**: Not available
 - **contact person**: [Niels Drost](https://www.esciencecenter.nl/profile/dr.-niels-drost)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/ewatercycle/screencapture-demo-ewatercycle.png "eWaterCycle demo screenshot")

@@ -3,6 +3,7 @@
 - **url**: [https://nlesc.github.io/spot](https://nlesc.github.io/spot)
 - **screencast**: -
 - **contact person**: [Faruk Diblen](https://www.esciencecenter.nl/profile/faruk-diblen-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 
 ![screenshot](/demos/spot/screencapture-demo-spot.png "SPOT Screenshot")

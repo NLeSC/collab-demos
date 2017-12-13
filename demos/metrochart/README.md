@@ -8,6 +8,7 @@
    - Network: (speed, interference of other devices when on wireless)
 - **screencast**: Not available
 - **contact person**: [Jurriaan H. Spaaks](https://www.esciencecenter.nl/profile/drs-jurriaan-spaaks)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/metrochart/screencapture-demo-metrochart.png "metrochart demo screenshot")

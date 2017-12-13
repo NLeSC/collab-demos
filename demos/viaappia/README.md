@@ -6,6 +6,7 @@
  - Works better with GPU
 - **screencast**: [https://www.youtube.com/watch?v=I3DLXSrRiyk](https://www.youtube.com/watch?v=I3DLXSrRiyk)
 - **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 
 ![screenshot](/demos/viaappia/screencapture-demo-viaappia.png "screenshot demo Via Appia")

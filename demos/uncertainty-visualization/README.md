@@ -3,6 +3,7 @@
 - **url**: [https://nlesc.github.io/UncertaintyVisualization/](https://nlesc.github.io/UncertaintyVisualization/)
 - **screencast**: Not available
 - **contact person**: [Maarten van Meersbergen](https://www.esciencecenter.nl/profile/maarten-van-meersbergen-msc)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/uncertainty-visualization/screencapture-demo-uncertainty-visualization.png "Uncertainty Visualization demo screenshot")

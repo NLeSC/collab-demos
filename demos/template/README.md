@@ -8,6 +8,7 @@
    - Network: (speed, interference of other devices when on wireless)
 - **screencast**: Not available
 - **contact person**: [someperson](https://www.esciencecenter.nl/profile/someperson)
+- **supported browsers**: Google Chrome
 - **screenshot**: 
  
 ![screenshot](/demos/template/screencapture-demo-template.png "template demo screenshot")

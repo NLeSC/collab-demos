@@ -7,6 +7,7 @@
    - Database: No performance problems
 - **screencast**: [https://vimeo.com/163425797](https://vimeo.com/163425797), powerpoint [presentation](/demos/eecology-annotation-ui/eecology-demo-presentation.pptx?raw=true)
 - **contact person**: [Stefan Verhoeven](https://www.esciencecenter.nl/profile/ing.-stefan-verhoeven)
+- **supported browsers**: Google Chrome
 - **screenshot**:
 
 ![screenshot](/demos/eecology-annotation-ui/screenshots/screenshot-33.png "eecology-annotation-ui demo screenshot")
