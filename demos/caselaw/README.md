@@ -28,19 +28,19 @@ experts to make this identification when preparing a case. However, court
 rulings are often difficult to understand, there is only limited time available,
 and even experts are not aware of all cases that may be relevant.
 
-The aim of this project was therefore to develop software that could assist the
-legal community at large (prosecutors, judges, lawyers, legal aids, but also
-researchers and students) in analyzing case law. For this, NLeSC worked together
-with Maastricht University to develop an interactive visualization. This has
-been implemented as follows. The collective of cases that together make up case
-law can be thought of as a network, or _graph_. Each node in the graph
-represents a case, while the edges represent references to other cases. The
-graph can be visualized to make it easy for a non-technical user to discover
-which cases are related. By using metrics from graph theory, such as
-_in-degree_, _out-degree_, _betweenness_, etc., the nodes in the graph can be
-annotated with additional information. The additional  information helps a
-researcher quickly assess a node's importance. By presenting case law visually
-as a graph, the structure underpinning case law is made explicit.
+To help mitigate this situation, the Netherlands eScience Center worked together
+with Maastricht University to develop an interactive visualization that assists
+the legal community at large (prosecutors, judges, lawyers, legal aids, but also
+researchers and students) in analyzing case law.
+
+The visualization has been implemented as follows. The collective of cases that
+together make up case law can be thought of as a network, or _graph_. Each node
+in the graph represents a case, while the edges represent references to other
+cases. The graph is represented visually to make it easy for a non-technical
+user to discover which cases are related. By using metrics from graph theory,
+such as _in-degree_, _out-degree_, _betweenness_, etc., the nodes in the graph
+can be annotated with additional information. The additional information helps
+a researcher quickly assess a node's importance.
 
 # Demo usage
 
